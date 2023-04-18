@@ -8,14 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5df7d8b8481ad649",
+            "id": "289ba653b4537285",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50f7800d037061b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40de3556450201ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b136d70b718db411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,20 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20f02baae5fd60c5",
+  "active": "b136d70b718db411",
   "lastOpenFiles": [
-    "testyigyg",
-    "Races.md",
+    "Subclasses(don't know yet)/wizard/Rune mage(Work in progress).md",
     "Subclasses(don't know yet)/Untitled.md",
-    "Subclasses/Sorcerer",
-    "Subclasses(don't know yet)",
+    "Subclasses(don't know yet)/druid/Witch Doctor.md",
+    "Subclasses(don't know yet)/rogue/Shadowblade.md",
+    "Subclasses(don't know yet)/fighter/Ironclad.md",
+    "Subclasses(don't know yet)/sorcerer/Weaveborn Sorcerer.md",
+    "Subclasses(don't know yet)/paladin/Phoenix Knight.md",
+    "Subclasses(don't know yet)/warlock",
+    "Subclasses(don't know yet)/ranger",
+    "Subclasses(don't know yet)/monk",
+    "Subclasses(don't know yet)/cleric",
+    "Subclasses(don't know yet)/barbarian",
+    "Subclasses(don't know yet)/sorcerer",
+    "Subclasses(don't know yet)/wizard",
+    "Subclasses(don't know yet)/druid",
+    "Subclasses(don't know yet)/rogue",
+    "Subclasses(don't know yet)/fighter",
+    "Races.md",
     "zMain map.png",
     "other adventure npcs(for future campaign)/Npc.md",
     "Cities/Blackwood.md",
     "Cities/Silverdale.md",
     "Lore pieces/Magic.md",
     "Lore pieces/Historical Events.md",
-    "Lore pieces",
     "Cities/Phoenix's Perch.md",
     "Cities/Greymoor.md",
     "Cities/Fallcrest.md",
@@ -173,19 +226,11 @@
     "images/Iron legion.jpg",
     "images/Silver rose.jpg",
     "Cities/Thornkeep.md",
-    "images",
     "Cities/Shadowsong.md",
     "images/thornkeep.png",
     "images/silverdale.png",
     "images/shadowsong.png",
     "images/pheonix_s_perch.png",
-    "Untitled.canvas",
-    "Factions/Bad",
-    "Factions/Neutral",
-    "Factions/Good",
-    "map.md",
-    "other adventure npcs(for future campaign)",
-    "Cities",
-    "Factions"
+    "Untitled.canvas"
   ]
 }
