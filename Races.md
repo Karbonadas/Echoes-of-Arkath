@@ -1,0 +1,12 @@
+-   Humans
+-   Elves
+-   Half-Elves
+-   Dwarves
+-   Gnomes
+-   Halflings
+-   Dragonborn
+-   Tieflings
+-   Aasimar
+-   Half-Orcs
+-   Tabaxi
+-   Goliaths

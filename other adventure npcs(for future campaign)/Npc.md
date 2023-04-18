@@ -1,0 +1,17 @@
+
+-   Elder Cairn, a wise old sage who provides guidance and lore to the characters
+-   Captain Marcus, a veteran soldier who becomes a mentor to the characters
+-   Lady Althea, a powerful wizard who offers the characters a dangerous but potentially rewarding quest
+-   Duke Renald, a wealthy noble who hires the characters to investigate a strange occurrence on his estate
+-   Bishop Valen, a corrupt clergyman who seeks to use the characters for his own dark purposes
+-   Lady Eira, a fierce warrior and potential love interest for one of the characters
+-   Jarek, a grizzled mercenary who becomes a rival to the characters
+-   Thorne, a mysterious thief who offers the characters a chance to join his guild
+- Ledi Adalynne: aukštai gimusi bajoraitė Finikso ešeryje, žinoma dėl savo grožio ir žavesio. Ji yra daugelio piršlių meilės objektas, tačiau ji lieka vieniša, pasinaudodama savo statusu ir įtaka siekdama savo tikslų.
+- Kapitonas Drogathas: Geležinio legiono karinių pajėgų vadas, užkietėjęs karys, kuris labiau už viską vertina jėgą ir drausmę. Jis turi mažai kantrybės tiems, kurie nevykdo jo nurodymų arba rodo silpnumą.
+- Meistras Talosas: Fenikso ordino magiškų tyrimų skyriaus vadovas, išmintingas ir senas burtininkas, savo gyvenimą paskyręs magijos paslapčių atskleidimui. Jis žinomas dėl savo ekscentriškumo ir retkarčiais ištinkančių beprotybės priepuolių.
+- Ofelija: paslaptinga figūra, veikianti Thornkeep šešėlyje, gandai esanti galinga žudikė ar šnipė. Mažai kas matė jos veidą, o dar mažiau išgyveno, kad papasakotų istoriją.
+- Brolis Osvaldas: Sidabrinės rožės riterių narys, prižiūrintis ordino humanitarines pastangas Easthaven mieste. Jis žinomas dėl savo malonios ir švelnios prigimties, dažnai keliauja po kaimą padėti tiems, kuriems reikia pagalbos.
+- Kal'garas: pusiau orkų kalvis, vadovaujantis kalviui Silverdale, žinomas dėl neprilygstamos kokybės ginklų kūrimo. Jis yra šiurkštus ir tiesioginis, tačiau labai gerbia tuos, kurie mainais rodo jam garbę ir pagarbą.
+- Nilesas: gudrus ir oportunistinis pirklys, valdantis prekybos kelią tarp Silverdale ir Thornkeep. Bėgant metams jis susirado daug priešų, tačiau dėl savo greito proto ir aštresnio liežuvio išlieka gyvas ir klesti.
+- Malakaras: galingas warlock, apsigyvenęs apleistoje pilyje už Fallkresto. Vietiniai jo bijo ir keikia, nes mano, kad jis yra atsakingas už virtinę dingimų ir paslaptingus įvykius regione.

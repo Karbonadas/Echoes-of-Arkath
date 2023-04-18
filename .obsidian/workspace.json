@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d9a0028d30eb349f",
+    "type": "split",
+    "children": [
+      {
+        "id": "276dfd8abf78a0ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df7d8b8481ad649",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13bece157c330801",
+    "type": "split",
+    "children": [
+      {
+        "id": "2790f407e3ab1195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20f02baae5fd60c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41a5a83c9dc6ed6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3f5fc5a1a7d7a3b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7785b762dfe1b8ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b18dbb87cd61e25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e64e99ae4542903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7434f768baa548a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d110499d19ca519b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "897e738e18031668",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subclasses(don't know yet)/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20f02baae5fd60c5",
+  "lastOpenFiles": [
+    "testyigyg",
+    "Races.md",
+    "Subclasses(don't know yet)/Untitled.md",
+    "Subclasses/Sorcerer",
+    "Subclasses(don't know yet)",
+    "zMain map.png",
+    "other adventure npcs(for future campaign)/Npc.md",
+    "Cities/Blackwood.md",
+    "Cities/Silverdale.md",
+    "Lore pieces/Magic.md",
+    "Lore pieces/Historical Events.md",
+    "Lore pieces",
+    "Cities/Phoenix's Perch.md",
+    "Cities/Greymoor.md",
+    "Cities/Fallcrest.md",
+    "Cities/Easthaven.md",
+    "Cities/Citadel of Iron.md",
+    "Factions/Neutral/The Merchant guild.md",
+    "Factions/Neutral/The Iron Legion.md",
+    "Factions/Bad/The Black Brotherhood.md",
+    "Factions/Bad/The Cult of The Dark One.md",
+    "images/R.png",
+    "Factions/Good/The Order of the Phoenix.md",
+    "images/Pheonix.png",
+    "Factions/Good/The Knights of the Silver Rose.md",
+    "images/The black brootherhood.png",
+    "images/Iron legion.jpg",
+    "images/Silver rose.jpg",
+    "Cities/Thornkeep.md",
+    "images",
+    "Cities/Shadowsong.md",
+    "images/thornkeep.png",
+    "images/silverdale.png",
+    "images/shadowsong.png",
+    "images/pheonix_s_perch.png",
+    "Untitled.canvas",
+    "Factions/Bad",
+    "Factions/Neutral",
+    "Factions/Good",
+    "map.md",
+    "other adventure npcs(for future campaign)",
+    "Cities",
+    "Factions"
+  ]
+}
