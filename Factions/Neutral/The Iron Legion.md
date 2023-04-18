@@ -8,7 +8,7 @@ Struktūra:
 	Kiekvienos grupės kapitonas yra atsakingas už drausmės palaikymą ir taisyklių laikymąsi. 
 
 Skonis / tema: 
-	Geležinio legiono tema yra  karas, kova ir lojalumas. 
+	Geležinio legiono tema yra  karas, kova, garbė, drausmė ir lojalumas. 
 	Jie dažnai vaizduojami kaip niūrūs, praktiški ir nepalenkiami. 
 	Jų simbolis – sugniaužtas kumštis, simbolizuojantis jų jėgą ir ryžtą. 
 

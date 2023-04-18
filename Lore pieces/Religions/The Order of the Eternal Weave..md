@@ -1,0 +1,1 @@
+Ši religija remiasi tikėjimu, kad [[The Weave]] yra amžina ir dieviška jėga, jungianti visas gyvas būtybes, o ją suprasdamas ir įvaldęs gali pasiekti nušvitimą ir bendrauti su dieviška savo puse.

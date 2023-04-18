@@ -21,12 +21,12 @@ Tikslai:
 	Galutinis: sukurkite pasaulį, kuriame vyrautų teisingumas ir teisumas ir kuriame visi žmonės galėtų gyventi taikiai ir saugiai. 
 
 Santykiai: 
-	Sidabrinės rožės riteriai yra įsikūrę Thornkeep mieste ir palaiko glaudžius ryšius su miesto valdovais ir vyriausybe. 
+	Sidabrinės rožės riteriai yra įsikūrę [[Thornkeep]] mieste ir palaiko glaudžius ryšius su miesto valdovais ir vyriausybe. 
 	Juos taip pat gerbia ir žavisi dauguma kitų šalies miestų ir dažnai kviečiami padėti saugumo ir teisingumo klausimais. 
 	Tačiau griežtas jų moralinio kodekso laikymasis kartais gali juos supriešinti su kitomis frakcijomis ar asmenimis, kurie turi pragmatiškesnį ar lankstesnį požiūrį į problemų sprendimą.
 
 Žymūs žmonės:
-	Seras Rolandas: Ordino vadas, kilnus ir išmintingas riteris, daug metų vadovavęs riteriams ir visų gerbiamas. 
+	Seras Rolandas: Ordino vadas, kilnus ir išmintingas riteris[[Path of the Silver Knight]], daug metų vadovavęs riteriams ir visų gerbiamas. 
 	Ledi Amara: įgudusi karė ir diplomatė, žinoma dėl savo išminties ir užuojautos. 
 	Seras Galenas: jaunas, bet talentingas riteris, kuris įrodė save mūšyje ir yra vertinamas kaip kylanti ordino žvaigždė. 
 	Seras Hugo: vyresnis riteris, daug metų dirbantis ordinu ir žinomas dėl savo nepajudinamo atsidavimo šiam reikalui. 

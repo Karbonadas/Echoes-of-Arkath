@@ -8,103 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "289ba653b4537285",
+            "id": "9926d4a2584822fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subclasses(don't know yet)/Untitled.md",
+                "file": "Lore pieces/Religions/Naturatiny.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50f7800d037061b6",
+            "id": "3990193ec6eb8f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subclasses(don't know yet)/Untitled.md",
+                "file": "Lore pieces/Religions/The Dwarven Ancestors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40de3556450201ce",
+            "id": "68e8a44d7073c43c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subclasses(don't know yet)/Untitled.md",
+                "file": "Subclasses(work in progress)/warlock/Voidcaller.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b136d70b718db411",
+            "id": "cdd8b7201cf6781e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subclasses(don't know yet)/Untitled.md",
+                "file": "Cities/big/Citadel of Iron.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "72ba966c26724abd",
+            "id": "c6aeca8079287f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subclasses(don't know yet)/Untitled.md",
+                "file": "Cities/big/Phoenix's Perch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "128e59665d8bd518",
+            "id": "8f6f769e60e28b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subclasses(don't know yet)/wizard/Rune mage(Work in progress).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e8cb756897a69e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subclasses(don't know yet)/cleric/Divine Weaver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1605817256c00176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subclasses(don't know yet)/cleric/Divine Weaver.md",
+                "file": "Lore pieces/Religions/The Order of the Eternal Weave..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subclasses(don't know yet)/cleric/Divine Weaver.md",
+                "file": "Cities/big/Phoenix's Perch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subclasses(don't know yet)/cleric/Divine Weaver.md",
+                "file": "Cities/big/Phoenix's Perch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subclasses(don't know yet)/cleric/Divine Weaver.md"
+                "file": "Cities/big/Phoenix's Perch.md"
               }
             }
           }
@@ -231,45 +207,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1605817256c00176",
+  "active": "c6aeca8079287f3f",
   "lastOpenFiles": [
-    "Subclasses(don't know yet)/druid/Witch Doctor.md",
-    "Subclasses(don't know yet)/barbarian/Path of the Silver Knight.md",
-    "Subclasses(don't know yet)/cleric/Divine Weaver.md",
-    "Subclasses(don't know yet)/wizard/Rune mage(Work in progress).md",
-    "Lore pieces/Historical Events.md",
-    "Subclasses(don't know yet)/warlock/Voidcaller.md",
-    "Subclasses(don't know yet)/Untitled.md",
-    "Subclasses(don't know yet)/ranger/Forest Archer.md",
-    "Subclasses(don't know yet)/archer/Wood Archer.md",
-    "Subclasses(don't know yet)/archer",
-    "zMain map.png",
-    "Subclasses(don't know yet)/rogue/Shadowblade.md",
-    "Subclasses(don't know yet)/fighter/Ironclad.md",
-    "Subclasses(don't know yet)/sorcerer/Weaveborn Sorcerer.md",
-    "Subclasses(don't know yet)/paladin/Phoenix Knight.md",
-    "Subclasses(don't know yet)/warlock",
-    "Subclasses(don't know yet)/ranger",
-    "Subclasses(don't know yet)/monk",
-    "Subclasses(don't know yet)/cleric",
-    "Subclasses(don't know yet)/barbarian",
-    "Subclasses(don't know yet)/sorcerer",
-    "Subclasses(don't know yet)/wizard",
-    "Subclasses(don't know yet)/druid",
-    "Subclasses(don't know yet)/rogue",
-    "Races.md",
-    "other adventure npcs(for future campaign)/Npc.md",
-    "Cities/Blackwood.md",
-    "Cities/Silverdale.md",
-    "Lore pieces/Magic.md",
-    "Cities/Phoenix's Perch.md",
-    "Cities/Greymoor.md",
-    "Cities/Fallcrest.md",
-    "Cities/Easthaven.md",
-    "Cities/Citadel of Iron.md",
+    "Factions/Neutral/The Tipped Stein Guild.md",
+    "Cities/big/Citadel of Iron.md",
+    "Cities/big/Phoenix's Perch.md",
+    "Cities/medium/Easthaven.md",
+    "Cities/big/Shadowsong.md",
+    "Cities/medium/Thornkeep.md",
+    "Cities/medium/Greymoor.md",
+    "Cities/medium/Silverdale.md",
+    "Cities/small/Blackwood.md",
+    "Cities/small/Fallcrest.md",
     "Factions/Neutral/The Merchant guild.md",
     "Factions/Neutral/The Iron Legion.md",
     "Factions/Bad/The Black Brotherhood.md",
+    "Lore pieces/Religions/The Church of The Darkbeyond.md",
+    "Subclasses(work in progress)/warlock/Voidcaller.md",
+    "Lore pieces/Religions/The Order of the Eternal Weave..md",
+    "Lore pieces/Religions/The Dwarven Ancestors.md",
+    "Lore pieces/Religions/The Order of the Iron Fist.md",
+    "Lore pieces/Religions/The Cult of the Dark One.md",
+    "Lore pieces/Religions/Naturatiny.md",
+    "Lore pieces/Religions/The Church of the Holy Light.md",
+    "Races/uncommon/Half-orcs.md",
+    "Races/uncommon/Aasimars.md",
+    "Races/exotic/Dragonborns.md",
+    "Races/uncommon/Halflings.md",
+    "Races/uncommon/Elves.md",
+    "Lore pieces/Religions",
+    "Untitled",
+    "zMain map.png",
+    "Cities/small",
+    "Cities/medium",
+    "Cities/big",
+    "Races/exotic",
+    "Races/uncommon",
+    "Races/common",
+    "Races",
+    "images/pheonix_s_perch.png",
+    "Subclasses(don't know yet)/archer",
     "images/R.png",
     "images/Pheonix.png",
     "images/The black brootherhood.png",
@@ -278,7 +255,6 @@
     "images/thornkeep.png",
     "images/silverdale.png",
     "images/shadowsong.png",
-    "images/pheonix_s_perch.png",
     "Untitled.canvas"
   ]
 }
