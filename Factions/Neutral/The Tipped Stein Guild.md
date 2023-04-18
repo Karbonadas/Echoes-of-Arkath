@@ -17,4 +17,4 @@ Apsauga ir parama iš kolegų narių iškilus pavojui ar ginčams.
 Mokymai ir ištekliai, skirti pagerinti jų bendravimo ir pristatymo įgūdžius.
 Galimybės susitikti ir bendrauti su žmonėmis iš visų gyvenimo sričių. 
 
-Gildijos meistras: Dabartinis gildijos meistras yra nykštukas, vardu Markas "Porteris", kuris yra žinomas dėl savo aštraus proto ir puikių bendravimo įgūdžių. Jis prižiūri kasdienę gildijos veiklą ir palaiko glaudžius ryšius tiek su nariais, tiek su klientais.
+Gildijos meistras: Dabartinis gildijos meistras yra nykštukas, vardu [[Markas (Porteris) Elkabinas]] .

@@ -20,6 +20,6 @@ Santykiai:
      Kita vertus, gildija yra vertingas sąjungininkas daugeliui grupuočių, ypač tų, kurių išlikimas priklauso nuo prekybos ir mainų.
 
 Žymūs nariai:
-     Jarekas Ironsidas: Prekybininkų gildijos tarybos vadovas Jarekas yra negailestingas ir gudrus verslininkas, savo turtą susikrovęs daugybės sandorių ir derybų pagrindu.
+     Lordas Antanas: Prekybininkų gildijos tarybos vadovas Jarekas yra negailestingas ir gudrus verslininkas, savo turtą susikrovęs daugybės sandorių ir derybų pagrindu.
      Ledi Sarella: Galinga ir įtakinga gildijos narė, ledi Sarella yra įgudusi derybininkė ir strategė, padėjusi gildijai įveikti daugybę sunkių laikų.
      Arinas Blackthorn: vyriausiasis gildijos vykdytojas Arinas yra baisus ir gerbiamas veikėjas, atsakingas už gildijos turto ir veiklos saugumo užtikrinimą.

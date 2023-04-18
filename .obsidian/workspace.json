@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/big/Citadel of Iron.md",
+                "file": "2023-04-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore pieces/Religions/The Order of the Eternal Weave..md",
+                "file": "Lore pieces/Religions/The Order of the Eternal Weave.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cities/big/Citadel of Iron.md",
+                "file": "2023-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cities/big/Citadel of Iron.md",
+                "file": "2023-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cities/big/Citadel of Iron.md"
+                "file": "2023-04-18.md"
               }
             }
           }
@@ -245,36 +245,37 @@
   },
   "active": "102ab249b5fb2226",
   "lastOpenFiles": [
-    "NPCs/Main/Jarekas.md",
-    "NPCs/Main/Markas (Porteris) Elkabinas.md",
+    "Lore pieces/The Weave.md",
+    "Lore pieces/Historical Events.md",
+    "2023-04-18.md",
+    "Cities/big/Phoenix's Perch.md",
     "Cities/big/Citadel of Iron.md",
-    "NPCs/Main/Fortuna Fletcher.md",
+    "Cities/small/Fallcrest.md",
+    "Cities/medium/Easthaven.md",
+    "Lore pieces/Religions/The Order of the Iron Fist.md",
+    "Factions/Neutral/The Iron Legion.md",
+    "Lore pieces/Religions/The Church of the Holy Light.md",
+    "Lore pieces/Religions/The Order of the Eternal Weave.md",
+    "Lore pieces/Religions/The Dwarven Ancestors.md",
+    "Races/common/Dwarves.md",
+    "Cities/medium/Silverdale.md",
+    "Lore pieces/Religions/The Cult of the Dark One.md",
+    "Cities/big/Shadowsong.md",
+    "Factions/Bad/The Cult of The Dark One faction.md",
+    "Lore pieces/Religions/The Church of The Darkbeyond.md",
+    "Lore pieces/Religions/Naturatiny.md",
+    "Factions/Bad/The Black Brotherhood.md",
+    "Subclasses(work in progress)/warlock/Voidcaller.md",
+    "Subclasses(work in progress)/cleric/Divine Weaver.md",
+    "Subclasses(work in progress)/sorcerer/Weaveborn Sorcerer.md",
+    "Factions/Neutral/The Tipped Stein Guild.md",
+    "Factions/Neutral/The Merchant guild.md",
+    "NPCs/Main/Markas (Porteris) Elkabinas.md",
+    "images/Pasted image 20230418231426.png",
     "images/Pasted image 20230418225844.png",
     "images/Pasted image 20230418225802.png",
-    "Cities/big/Phoenix's Perch.md",
-    "Factions/Neutral/The Iron Legion.md",
-    "Factions/Neutral/The Tipped Stein Guild.md",
     "NPCs/Main",
     "NPCs",
-    "NPCs/other adventure npcs(for future campaign)/Npc.md",
-    "Cities/small/Fallcrest.md",
-    "Cities/small/Blackwood.md",
-    "Cities/medium/Thornkeep.md",
-    "Cities/medium/Silverdale.md",
-    "Cities/medium/Greymoor.md",
-    "Cities/medium/Easthaven.md",
-    "Cities/big/Shadowsong.md",
-    "Factions/Neutral/The Merchant guild.md",
-    "Factions/Bad/The Black Brotherhood.md",
-    "Lore pieces/Religions/The Church of The Darkbeyond.md",
-    "Subclasses(work in progress)/warlock/Voidcaller.md",
-    "Lore pieces/Religions/The Order of the Eternal Weave..md",
-    "Lore pieces/Religions/The Dwarven Ancestors.md",
-    "Lore pieces/Religions/The Order of the Iron Fist.md",
-    "Lore pieces/Religions/The Cult of the Dark One.md",
-    "Lore pieces/Religions/Naturatiny.md",
-    "Lore pieces/Religions/The Church of the Holy Light.md",
-    "Races/uncommon/Half-orcs.md",
     "Lore pieces/Religions",
     "zMain map.png",
     "Cities/small",
@@ -290,7 +291,6 @@
     "images/The black brootherhood.png",
     "images/Iron legion.jpg",
     "images/Silver rose.jpg",
-    "images/thornkeep.png",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,7 @@
 Archetipas: 
 	Geležinis legionas yra samdinių grupė, siūlanti savo paslaugas didžiausią kainą pasiūliusiam asmeniui. 
 	Jie yra žinomi dėl savo tvirtumo, disciplinos ir ištikimybės sutarčiai. 
+	[[The Order of the Iron Fist]]
 
 Struktūra: 
 	Geležinis legionas yra didelė organizacija, turinti daug karių ir vadų. 
@@ -22,7 +23,7 @@ Santykiai:
 	Paprastai jie gerbiami ir bijojami dėl savo kovos įgūdžių, tačiau taip pat laikomi amoraliais ir nepatikliais. 
 
 Žymūs nariai: 
-	Kapitonas Karras: Geležinio legiono pagrindinės kuopos kapitonas. Jis yra įgudęs taktikas ir negailestingas kovotojas. 
+	Kapitonas Karras: Geležinio legiono pagrindinės kuopos[[Citadel of Iron]] kapitonas. Jis yra įgudęs taktikas ir negailestingas kovotojas. 
 	Seržantas Valtoras: Kareivis veteranas, daugiau nei dešimtmetį tarnavęs Geležiniame legione. Jis yra žinomas dėl savo ištikimybės ir disciplinos. 
 	Samdinių kapitonas Miri: mažesnės grupės Geležiniame legione kapitonas. Ji yra žinoma dėl savo drąsos ir taktinio meistriškumo mūšyje.
 

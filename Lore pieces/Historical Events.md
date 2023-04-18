@@ -5,7 +5,7 @@ Miestų/valstybių įkūrimas: Po kataklizmo išgyvenę žmonės susibūrė į m
 
 Geležinio legiono iškilimas: „[[The Iron Legion]]“ tapo galinga samdinių jėga, pasinaudojant jų kariniu meistriškumu ir taktiniais įgūdžiais, kad taptų dominuojančia jėga prekybos ir politikos pasaulyje.
 
-[[Factions/Bad/The Cult of The Dark One]] atsiradimas: grupė žmonių is [[Phoenix's Perch]]] sudominta Tamsos Lordo žūties nutarė, jog pasaulis kuriame gyvena nėra geras gyventi niekam, laikui bėgant ir idėjoms persiformuojant jie panoro išlaisvinti šių žemių gyventojus nuo jų klaikios kasdienybės - jie siekia prikelti Valdovą, kuris atstatys pasaulį tokį koks buvo, šiuo metu jie ceremonijoms ir garbinimui užkariavo Shadowsong miestą kurį dabar gaudžia amžina tamsa
+[[The Cult of The Dark One faction]] atsiradimas: grupė žmonių is [[Phoenix's Perch]]] sudominta Tamsos Lordo žūties nutarė, jog pasaulis kuriame gyvena nėra geras gyventi niekam, laikui bėgant ir idėjoms persiformuojant jie panoro išlaisvinti šių žemių gyventojus nuo jų klaikios kasdienybės - jie siekia prikelti Valdovą, kuris atstatys pasaulį tokį koks buvo, šiuo metu jie ceremonijoms ir garbinimui užkariavo Shadowsong miestą kurį dabar gaudžia amžina tamsa
 
 Dwarven Exodus: Nykštukų grupė, nepatenkinta politine situacija jų tėvynėje[[Greymoor]], palikta ieškoti naujos vietos įsikurti. Galiausiai jie įkūrė savo miesto valstybę ir tapo didele jėga prekybos ir pramonės pasaulyje.
 

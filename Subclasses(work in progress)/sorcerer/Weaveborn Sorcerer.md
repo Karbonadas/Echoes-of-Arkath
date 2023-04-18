@@ -1,4 +1,4 @@
-[[The Weave]]
+[[The Order of the Eternal Weave]]
 The Weaveborn Sorcerers are individuals who have been touched by the raw magic that permeates the world, allowing them to tap into the magic of the Weave, the fabric of magic that holds the universe together. They are born with a natural affinity for magic, and their powers grow stronger as they learn to harness and control the magical energies around them.
 
 **1st-Level Feature: Weaveborn Surge**  

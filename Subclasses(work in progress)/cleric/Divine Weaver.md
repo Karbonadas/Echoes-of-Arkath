@@ -1,4 +1,4 @@
-[[The Weave]]
+[[The Order of the Eternal Weave]]
 A cleric who specializes in weaving together the threads of fate and destiny, and manipulating the fabric of reality to serve their divine purpose.
 
 Level 1 Feature: Threads of Fate As a bonus action, you can choose one creature within 30 feet of you and weave a thread of fate around them. The creature gains advantage on the next attack roll, ability check, or saving throw they make within the next minute. Once you use this feature, you must complete a short or long rest before you can use it again.

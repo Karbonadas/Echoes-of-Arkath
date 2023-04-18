@@ -3,10 +3,12 @@ Didžiausias šios vietovės miestas, žinomas dėl didžiulės tvirtovės sien�
 Main npcs:
 Kapitonas Karras: [[The Iron Legion]] pagrindinės kuopos kapitonas
 Tarybos narė [[Fortuna Fletcher]], dabartinė valdančioji tarybos narė
-Kapitonas Jarekas, miesto sargybos viršininkas
+Kapitonas [[Jarekas]], miesto sargybos viršininkas
 Meistras Hargreave'as, vyriausiasis inžinierius ir Citadelės technologijų pažangos vadovas
 Lordas Antanas, turtingas pirklys[[The Merchant guild]] ir tarybos narys
 [[Markas (Porteris) Elkabinas]], The Burning Dwarf smuklės savininkas, [[The Tipped Stein Guild]] vadas
+Tėvas Balekas [[The Church of the Holy Light]] vyriausias kunigas
+
 
 Meistras Galenas: prižiūri pagrindinį[[The Knights of the Silver Rose]] ordino skyrių sostinėje. Jis yra patyręs riteris ir kovos meistras, žinomas dėl savo nepaliaujamo atsidavimo teisingumui ir nepaliaujamo blogio siekimo.
 

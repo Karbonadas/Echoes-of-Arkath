@@ -6,6 +6,7 @@ Sargybinis Brienne, kaimo sargybos viršininkas
 Meistras Sorenas, įgudęs medžio drožėjas
 Brolis Jonas, vietos šventovės vadovas
 Corin, populiarios tavernos „The Rusty Knife“ savininkas [[The Tipped Stein Guild]]
+Senasis Toremas[[The Order of the Iron Fist]] vadas
 
 
 -   [[Humans]]
