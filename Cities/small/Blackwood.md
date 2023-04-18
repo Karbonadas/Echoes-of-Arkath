@@ -5,7 +5,7 @@ Seniūnas Amara, kaimo vadovas
 Sargybinis Harkinas, kaimo sargybos vadovas 
 Meistrė Kyra, kvalifikuota odos meistrė 
 Sesuo Ava, vietos šventovės vadovė 
-Tormundas, populiarios smuklės „The Black Boar“ savininkas
+Tormundas, populiarios smuklės „The Black Boar“ savininkas [[The Tipped Stein Guild]]
 
 -   [[Humans]]
 -   [[Half-Elves]]

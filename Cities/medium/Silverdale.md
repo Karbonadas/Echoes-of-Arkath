@@ -5,7 +5,7 @@ Meras Markusas, miesto vadovas
 Šerifas Gvenas, miesto sargybos vadovas
 Meistras Gajus, įgudęs stalius
 Sesuo Emilija, vietos šventyklos vadovė
-Eadrikas, populiarios užeigos „The Silver Stag“ savininkas
+Eadrikas, populiarios užeigos „The Silver Stag“ savininkas [[The Tipped Stein Guild]]
 
 Main places:
 

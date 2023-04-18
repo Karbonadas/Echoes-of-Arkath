@@ -5,7 +5,7 @@ Seniūnas Tomas, kaimo vadovas
 Sargybinis Brienne, kaimo sargybos viršininkas
 Meistras Sorenas, įgudęs medžio drožėjas
 Brolis Jonas, vietos šventovės vadovas
-Corin, populiarios tavernos „The Rusty Knife“ savininkas
+Corin, populiarios tavernos „The Rusty Knife“ savininkas [[The Tipped Stein Guild]]
 
 
 -   [[Humans]]

@@ -6,7 +6,7 @@ Tarybos narė Valerija, dabartinė valdančioji tarybos narė
 Kapitonas Jarekas, miesto sargybos viršininkas
 Meistras Hargreave'as, vyriausiasis inžinierius ir Citadelės technologijų pažangos vadovas
 Lordas Antanas, turtingas pirklys[[The Merchant guild]] ir tarybos narys
-Markas "Porteris", The Burning Dwarf smuklės savininkas, [[The Tipped Stein Guild]] vadas
+[[Markas (Porteris) Elkabinas]], The Burning Dwarf smuklės savininkas, [[The Tipped Stein Guild]] vadas
 
 Meistras Galenas: prižiūri pagrindinį[[The Knights of the Silver Rose]] ordino skyrių sostinėje. Jis yra patyręs riteris ir kovos meistras, žinomas dėl savo nepaliaujamo atsidavimo teisingumui ir nepaliaujamo blogio siekimo.
 

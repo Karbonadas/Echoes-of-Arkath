@@ -5,7 +5,7 @@ Meras Adalyn, miesto vadovas
 Šerifas Brantas, miesto sargybos vadovas
 Meistras Arturo, įgudęs kalvis
 Tėvas Liucijus, vietos šventyklos vadovas
-Baelinas, populiarios užeigos „The Drunken Dragon“ savininkas
+Baelinas, populiarios užeigos „The Drunken Dragon“ savininkas [[The Tipped Stein Guild]]
 
 Sidabrinės Rožės Riteriai[[The Knights of the Silver Rose]]
 

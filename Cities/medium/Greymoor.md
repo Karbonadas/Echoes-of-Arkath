@@ -5,7 +5,7 @@ Merė Elara, miesto vadovė
 Šerifas Cadenas, miesto sargybos vadovas
 Meistrė Kaida, įgudusi gydytoja, slaptai Juodoji ranka([[The Black Brotherhood]] vadė)
 Brolis Gavinas, vietos šventyklos vadovas
-Ledi Eira, populiarios užeigos „The Rusty Inchor“ savininkė
+Ledi Eira, populiarios užeigos „The Rusty Inchor“ savininkė [[The Tipped Stein Guild]]
 
 Meistras Valenas: prižiūri[[The Knights of the Silver Rose]] ordino skyrių kalnuotame Greymoor regione. Jis yra griežtas ir nepalenkiamas riteris, vertinantis discipliną ir tvarką, o priešai jo bijo dėl žiauraus efektyvumo kovoje.
 
