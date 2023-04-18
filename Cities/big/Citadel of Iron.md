@@ -2,7 +2,7 @@ Didžiausias šios vietovės miestas, žinomas dėl didžiulės tvirtovės sien�
 
 Main npcs:
 Kapitonas Karras: [[The Iron Legion]] pagrindinės kuopos kapitonas
-Tarybos narė Valerija, dabartinė valdančioji tarybos narė
+Tarybos narė [[Fortuna Fletcher]], dabartinė valdančioji tarybos narė
 Kapitonas Jarekas, miesto sargybos viršininkas
 Meistras Hargreave'as, vyriausiasis inžinierius ir Citadelės technologijų pažangos vadovas
 Lordas Antanas, turtingas pirklys[[The Merchant guild]] ir tarybos narys

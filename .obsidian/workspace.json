@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "b8f1bb7114eda3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/big/Citadel of Iron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "102ab249b5fb2226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/big/Citadel of Iron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f6f769e60e28b7c",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,10 +243,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30f5f2be90221a00",
+  "active": "102ab249b5fb2226",
   "lastOpenFiles": [
+    "NPCs/Main/Jarekas.md",
     "NPCs/Main/Markas (Porteris) Elkabinas.md",
     "Cities/big/Citadel of Iron.md",
+    "NPCs/Main/Fortuna Fletcher.md",
+    "images/Pasted image 20230418225844.png",
+    "images/Pasted image 20230418225802.png",
     "Cities/big/Phoenix's Perch.md",
     "Factions/Neutral/The Iron Legion.md",
     "Factions/Neutral/The Tipped Stein Guild.md",
@@ -247,8 +275,6 @@
     "Lore pieces/Religions/Naturatiny.md",
     "Lore pieces/Religions/The Church of the Holy Light.md",
     "Races/uncommon/Half-orcs.md",
-    "Races/uncommon/Aasimars.md",
-    "Races/exotic/Dragonborns.md",
     "Lore pieces/Religions",
     "zMain map.png",
     "Cities/small",
@@ -265,8 +291,6 @@
     "images/Iron legion.jpg",
     "images/Silver rose.jpg",
     "images/thornkeep.png",
-    "images/silverdale.png",
-    "images/shadowsong.png",
     "Untitled.canvas"
   ]
 }
