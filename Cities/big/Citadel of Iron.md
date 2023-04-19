@@ -10,7 +10,7 @@ Lordas Antanas, turtingas pirklys[[The Merchant guild]] ir tarybos narys
 Tėvas Balekas [[The Church of the Holy Light]] vyriausias kunigas
 
 
-Meistras Galenas: prižiūri pagrindinį[[The Knights of the Silver Rose]] ordino skyrių sostinėje. Jis yra patyręs riteris ir kovos meistras, žinomas dėl savo nepaliaujamo atsidavimo teisingumui ir nepaliaujamo blogio siekimo.
+Meistras Galenas: prižiūri pagrindinį[[The Knights of the Silver Rose]] ordino skyrių sostinėje. Jis yra patyręs riteris ir kovos meistras, žinomas dėl savo nepaliaujamo atsidavimo teisingumui ir nepaliaujamos kovos su blogiu.
 
 
 

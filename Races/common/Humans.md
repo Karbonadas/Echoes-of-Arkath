@@ -1,0 +1,8 @@
+[[Citadel of Iron]]
+[[Phoenix's Perch]]
+[[Easthaven]]
+[[Greymoor]]
+[[Silverdale]]
+[[Thornkeep]]
+[[Blackwood]]
+[[Fallcrest]]
