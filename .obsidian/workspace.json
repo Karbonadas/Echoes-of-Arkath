@@ -47,12 +47,26 @@
             "id": "9e54ece6078bc5dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "zMain map.png"
+              }
+            }
+          },
+          {
+            "id": "e0eab7e70cf5f91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore pieces/Conflicts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lore pieces/Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lore pieces/Conflicts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lore pieces/Conflicts.md"
+              }
             }
           }
         ]
@@ -175,9 +193,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e54ece6078bc5dc",
+  "active": "e0eab7e70cf5f91a",
   "lastOpenFiles": [
+    "Lore pieces/Historical Events.md",
+    "Lore pieces/Conflicts.md",
+    "Lore pieces/The Weave.md",
+    "zMain map.png",
     "2023-04-18.md",
+    "Races/uncommon/Halflings.md",
+    "Races/uncommon/Half-orcs.md",
+    "Races/uncommon/Elves.md",
+    "Races/uncommon/Aasimars.md",
+    "Races/exotic/Tabaxi.md",
+    "Races/exotic/Goliaths.md",
+    "Cities/small/Blackwood.md",
+    "Races/exotic/Dragonborns.md",
+    "Races/common/Tieflings.md",
+    "Races/common/Humans.md",
+    "Races/common/Half-elves.md",
+    "Races/common/Gnomes.md",
+    "Races/common/Dwarves.md",
     "Lore pieces/Religions/The Order of the Iron Fist.md",
     "Subclasses(work in progress)/monk/Way of Iron.md",
     "Factions/Good/The Order of the Phoenix.md",
@@ -187,24 +222,7 @@
     "Lore pieces/Religions/The Church of The Darkbeyond.md",
     "Factions/Bad/The Black Brotherhood.md",
     "Subclasses(work in progress)/rogue/Shadowblade.md",
-    "Cities/medium/Easthaven.md",
-    "Subclasses(work in progress)/ranger/Forest Archer.md",
-    "Lore pieces/Religions/Naturatiny.md",
-    "Subclasses(work in progress)/druid/Witch Doctor.md",
-    "Lore pieces/The Weave.md",
-    "Subclasses(work in progress)/paladin/Phoenix Knight.md",
-    "Subclasses(work in progress)/fighter/Ironclad.md",
-    "Factions/Neutral/The Tipped Stein Guild.md",
-    "Subclasses(work in progress)/bard/Tipped Stein Agent.md",
-    "Subclasses(work in progress)/cleric/Divine Weaver.md",
-    "Subclasses(work in progress)/sorcerer/Weaveborn Sorcerer.md",
-    "zMain map.png",
-    "Subclasses(work in progress)/barbarian/Path of the Silver Knight.md",
     "Subclasses(work in progress)/bard",
-    "Cities/big/Phoenix's Perch.md",
-    "Cities/big/Citadel of Iron.md",
-    "Races/uncommon/Halflings.md",
-    "Races/uncommon/Half-orcs.md",
     "images/Pasted image 20230418231426.png",
     "images/Pasted image 20230418225844.png",
     "images/Pasted image 20230418225802.png",
