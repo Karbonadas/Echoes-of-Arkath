@@ -59,14 +59,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore pieces/Conflicts.md",
+                "file": "Cities/big/Citadel of Iron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b91abea603bb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/big/Citadel of Iron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e8d54310701f371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Main/Markas (Porteris) Elkabinas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c91b3d6d4232c9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/small/Fallcrest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -132,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore pieces/Conflicts.md",
+                "file": "Cities/small/Fallcrest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore pieces/Conflicts.md",
+                "file": "Cities/small/Fallcrest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore pieces/Conflicts.md"
+                "file": "Cities/small/Fallcrest.md"
               }
             }
           }
@@ -193,35 +229,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0eab7e70cf5f91a",
+  "active": "c91b3d6d4232c9b0",
   "lastOpenFiles": [
-    "Lore pieces/Historical Events.md",
-    "Lore pieces/Conflicts.md",
-    "Lore pieces/The Weave.md",
-    "zMain map.png",
-    "2023-04-18.md",
-    "Races/uncommon/Halflings.md",
-    "Races/uncommon/Half-orcs.md",
-    "Races/uncommon/Elves.md",
-    "Races/uncommon/Aasimars.md",
-    "Races/exotic/Tabaxi.md",
-    "Races/exotic/Goliaths.md",
     "Cities/small/Blackwood.md",
-    "Races/exotic/Dragonborns.md",
-    "Races/common/Tieflings.md",
-    "Races/common/Humans.md",
-    "Races/common/Half-elves.md",
-    "Races/common/Gnomes.md",
-    "Races/common/Dwarves.md",
-    "Lore pieces/Religions/The Order of the Iron Fist.md",
-    "Subclasses(work in progress)/monk/Way of Iron.md",
+    "Cities/medium/Thornkeep.md",
+    "Cities/medium/Silverdale.md",
+    "Cities/medium/Greymoor.md",
+    "Cities/medium/Easthaven.md",
+    "Cities/big/Phoenix's Perch.md",
+    "2023-04-18.md",
+    "Cities/big/Citadel of Iron.md",
+    "NPCs/Main/Elrikas.md",
+    "Subclasses(work in progress)/bard/Tipped Stein Agent.md",
+    "Factions/Neutral/The Tipped Stein Guild.md",
+    "NPCs/Main/Fortuna Fletcher.md",
     "Factions/Good/The Order of the Phoenix.md",
+    "NPCs/Main/Markas (Porteris) Elkabinas.md",
+    "NPCs/Main/Lordas Antanas.md",
+    "NPCs/Main/Kapitonas Karras.md",
+    "NPCs/Main/Jarekas.md",
     "Subclasses(work in progress)/wizard/The School of Phoenix.md",
     "Factions/Neutral/The Iron Legion.md",
-    "Subclasses(work in progress)/warlock/Voidcaller.md",
-    "Lore pieces/Religions/The Church of The Darkbeyond.md",
-    "Factions/Bad/The Black Brotherhood.md",
-    "Subclasses(work in progress)/rogue/Shadowblade.md",
+    "images/Pasted image 20230419184900.png",
+    "images/Pasted image 20230419184145.png",
+    "Races/uncommon/Halflings.md",
+    "Races/common/Gnomes.md",
+    "Lore pieces/Conflicts.md",
+    "Lore pieces/Historical Events.md",
+    "Lore pieces/The Weave.md",
+    "zMain map.png",
+    "Races/uncommon/Half-orcs.md",
+    "Races/uncommon/Elves.md",
     "Subclasses(work in progress)/bard",
     "images/Pasted image 20230418231426.png",
     "images/Pasted image 20230418225844.png",
@@ -239,8 +277,6 @@
     "images/R.png",
     "images/Phoenix.png",
     "images/The black brootherhood.png",
-    "images/Iron legion.jpg",
-    "images/Silver rose.jpg",
     "Untitled.canvas"
   ]
 }

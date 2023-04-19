@@ -23,7 +23,7 @@ Santykiai su kitomis frakcijomis:
 	Jie palaiko gerus santykius su Phoenix's Perch, kuriame gyvena daug kitų mokslininkų ir intelektualų.
 
 Žymūs nariai:
-	Arhemagas Elrikas: Ordino vadovas, išmintingas ir galingas burtininkas, gerbiamas visoje žemėje už magijos žinias ir atsidavimą paslapčių tyrinėjimui. 
+	Arhemagas [[Elrikas]]: Ordino vadovas, išmintingas ir galingas burtininkas, gerbiamas visoje žemėje už magijos žinias ir atsidavimą paslapčių tyrinėjimui. 
 	Ledi Arija: įgudusi kerėtoja, kuri specializuojasi stebuklingų daiktų kūrime. Ji garsėja savo kūrybiškumu ir gebėjimu kurti didelės galios ir grožio daiktus. 
 	Meistras Tornas: atsiskyrėlis mokslininkas, didžiąją laiko dalį praleidžiantis Ordino bibliotekoje, studijuodamas senovinius tomus ir tekstus. Jis laikomas vienu žymiausių krašto magijos istorijos žinovų. 
 	Vyriausioji kunigė Lysandra: Ordino kunigė, garbinanti magijos deivę. Ji žinoma dėl savo išminties ir gebėjimo patarti tiems, kurie to siekia.

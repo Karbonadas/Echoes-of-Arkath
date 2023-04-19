@@ -1,7 +1,7 @@
 Šis miestas yra Fenikso ordino namai, įsikūręs didžiulio stebuklingo miško pakraštyje. Tai mokymosi vieta, kur mokslininkai ir mistikai atvyksta studijuoti paslaptingųjų menų. Miestas garsėja savo magiška gynyba, ir sakoma, kad oras yra persmelktas magijos.
 
 Main npcs:
-Arhemagas Elrikas, [[The Order of the Phoenix]] vadovas
+Arhemagas [[Elrikas]], [[The Order of the Phoenix]] vadovas, filosofas
 Tarybos narė Celeste, dabartinė valdančioji tarybos narė
 Kapitonas Adrielis, miesto sargybos viršininkas
 Vyriausioji kunigienė Selene, Šviesos šventyklos vadovė
