@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d98729bfdd0b7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/zsecret/nothing here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cities/small/Fallcrest.md",
+                "file": "Cities/zsecret/nothing here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cities/small/Fallcrest.md",
+                "file": "Cities/zsecret/nothing here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cities/small/Fallcrest.md"
+                "file": "Cities/zsecret/nothing here.md"
               }
             }
           }
@@ -229,8 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c91b3d6d4232c9b0",
+  "active": "1d98729bfdd0b7db",
   "lastOpenFiles": [
+    "Lore pieces/Conflicts.md",
+    "Lore pieces/Religions/Naturatiny.md",
+    "Cities/zsecret/nothing here.md",
+    "Cities/small/Fallcrest.md",
+    "Cities/zsecret",
     "Cities/small/Blackwood.md",
     "Cities/medium/Thornkeep.md",
     "Cities/medium/Silverdale.md",
@@ -254,12 +271,8 @@
     "images/Pasted image 20230419184145.png",
     "Races/uncommon/Halflings.md",
     "Races/common/Gnomes.md",
-    "Lore pieces/Conflicts.md",
     "Lore pieces/Historical Events.md",
-    "Lore pieces/The Weave.md",
     "zMain map.png",
-    "Races/uncommon/Half-orcs.md",
-    "Races/uncommon/Elves.md",
     "Subclasses(work in progress)/bard",
     "images/Pasted image 20230418231426.png",
     "images/Pasted image 20230418225844.png",
@@ -272,7 +285,6 @@
     "Cities/big",
     "Races/exotic",
     "Races/uncommon",
-    "Races/common",
     "images/phoenix_s_perch.png",
     "images/R.png",
     "images/Phoenix.png",
