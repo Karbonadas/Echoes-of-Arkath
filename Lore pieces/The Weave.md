@@ -7,3 +7,5 @@ Apribojimai: Audimas yra galinga, bet nenuspėjama jėga, kuriai norint efektyvi
 Poveikis: magija daro didelį poveikį pasauliui ir jo gyventojams. Ji suformavo istorijos eigą, leido galingiems magai pakilti į didelę įtaką turinčias pozicijas, netgi susikūrė frakcijos ir gildijos, skirtos jos tyrinėjimui ir naudojimui. Tačiau tai taip pat sukėlė baimę ir įtarumą tarp tų, kurie neturi magiškų sugebėjimų, ir buvo panaudota pateisinti persekiojimus ir smurtą prieš tuos, kurie turi. Magijos buvimas taip pat pritraukė anapusines būtybes ir būtybes, kai kurios iš jų siekia panaudoti arba išnaudoti jos galią savo naudai.
 
 Lore: Remiantis senovės tekstais ir legendomis, Audimą saugo galingos būtybės, žinomos kaip „Audėjai“, kurios kontroliuoja ir reguliuoja magiškos energijos srautą visame pasaulyje. Teigiama, kad šie audėjai gyvena paslėptose vietose ir pasirodo tik tiems, kurie laikomi vertais arba kai jiems labai reikia. Taip pat manoma, kad pats Audimas turi savo valią ir sąmonę, ir kad tie, kurie gali pasinaudoti jo galia, turi tai daryti pagarbiai ir atsargiai, kad nesusitrauktų su jo pykčiu.
+
+[[Divine Weaver]] clerics and [[Weaveborn Sorcerer]]

@@ -27,5 +27,6 @@ Santykiai:
 	Seržantas Valtoras: Kareivis veteranas, daugiau nei dešimtmetį tarnavęs Geležiniame legione. Jis yra žinomas dėl savo ištikimybės ir disciplinos. 
 	Samdinių kapitonas Miri: mažesnės grupės Geležiniame legione kapitonas. Ji yra žinoma dėl savo drąsos ir taktinio meistriškumo mūšyje.
 
+[[Ironclad]] fighters
 
 ![[Iron legion.jpg]]

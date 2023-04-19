@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 3489852
       }
+    },
+    {
+      "query": "path:NPCs",
+      "color": {
+        "a": 1,
+        "rgb": 11424480
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514343097119915,
+  "scale": 0.5359795996226001,
   "close": false
 }

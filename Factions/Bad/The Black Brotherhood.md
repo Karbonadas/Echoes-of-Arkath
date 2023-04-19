@@ -23,6 +23,8 @@ Santykiai:
      Juodoji ranka, aukščiausio rango Brolijos narys, yra paslaptinga figūra, kurios bijo visi
      Kiti žymūs nariai yra šešėliai, elitiniai žudikai, kurie veikia slaptai, ir nuodininkai, kurie specializuojasi nuodų ir toksinų naudojime.
 
+[[Shadowblade]] rogues
+
 
 
 ![[The black brootherhood.png]]

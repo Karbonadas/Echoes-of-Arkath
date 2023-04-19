@@ -10,6 +10,8 @@ Polas, senas[[Forest Archer]] medžiotojų vadas, vadovaujantis medžioklėms ja
 
 Meistras Liusjenas: prižiūri[[The Knights of the Silver Rose]] ordino skyrių Easthaven. Jis yra tylus ir santūrus riteris, vertinantis slaptumą ir žvalgybą, taip pat žinomas dėl savo sugebėjimo sekti ir sulaikyti bėglius ir nusikaltėlius.
 
+[[Forest Archer]]
+
 -   [[Humans]]
 -   [[Half-Elves]]
 -   [[Tabaxi]]

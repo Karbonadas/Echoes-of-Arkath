@@ -18,3 +18,5 @@ Mokymai ir ištekliai, skirti pagerinti jų bendravimo ir pristatymo įgūdžius
 Galimybės susitikti ir bendrauti su žmonėmis iš visų gyvenimo sričių. 
 
 Gildijos meistras: Dabartinis gildijos meistras yra nykštukas, vardu [[Markas (Porteris) Elkabinas]] .
+
+[[Tipped Stein Agent]] bards

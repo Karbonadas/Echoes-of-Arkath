@@ -29,5 +29,7 @@ Santykiai su kitomis frakcijomis:
 	Vyriausioji kunigė Lysandra: Ordino kunigė, garbinanti magijos deivę. Ji žinoma dėl savo išminties ir gebėjimo patarti tiems, kurie to siekia.
 	Archyvaras Markas: Ordino archyvo, kuriame yra didžiulė magiškų žinių ir istorijos kolekcija, saugotojas. Jis labai gerbiamas už kruopštų įrašų tvarkymą ir gebėjimą rasti neaiškią informaciją.
 
+[[Phoenix Knight]] paladins and [[The School of Phoenix]] wizards
 
-![[Pheonix.png]]
+
+![[Phoenix.png]]

@@ -30,9 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58045eb4dbc44b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Good/The Order of the Phoenix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e54ece6078bc5dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Good/The Order of the Phoenix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Good/The Order of the Phoenix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factions/Good/The Order of the Phoenix.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,51 +175,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1033e84d17c29f1a",
+  "active": "9e54ece6078bc5dc",
   "lastOpenFiles": [
+    "2023-04-18.md",
+    "Lore pieces/Religions/The Order of the Iron Fist.md",
+    "Subclasses(work in progress)/monk/Way of Iron.md",
+    "Factions/Good/The Order of the Phoenix.md",
+    "Subclasses(work in progress)/wizard/The School of Phoenix.md",
     "Factions/Neutral/The Iron Legion.md",
+    "Subclasses(work in progress)/warlock/Voidcaller.md",
+    "Lore pieces/Religions/The Church of The Darkbeyond.md",
+    "Factions/Bad/The Black Brotherhood.md",
+    "Subclasses(work in progress)/rogue/Shadowblade.md",
+    "Cities/medium/Easthaven.md",
+    "Subclasses(work in progress)/ranger/Forest Archer.md",
+    "Lore pieces/Religions/Naturatiny.md",
+    "Subclasses(work in progress)/druid/Witch Doctor.md",
+    "Lore pieces/The Weave.md",
+    "Subclasses(work in progress)/paladin/Phoenix Knight.md",
+    "Subclasses(work in progress)/fighter/Ironclad.md",
     "Factions/Neutral/The Tipped Stein Guild.md",
     "Subclasses(work in progress)/bard/Tipped Stein Agent.md",
+    "Subclasses(work in progress)/cleric/Divine Weaver.md",
+    "Subclasses(work in progress)/sorcerer/Weaveborn Sorcerer.md",
+    "zMain map.png",
+    "Subclasses(work in progress)/barbarian/Path of the Silver Knight.md",
     "Subclasses(work in progress)/bard",
     "Cities/big/Phoenix's Perch.md",
-    "2023-04-18.md",
     "Cities/big/Citadel of Iron.md",
-    "Subclasses(work in progress)/paladin/Phoenix Knight.md",
     "Races/uncommon/Halflings.md",
     "Races/uncommon/Half-orcs.md",
-    "Races/uncommon/Elves.md",
-    "Races/uncommon/Aasimars.md",
-    "Races/exotic/Tabaxi.md",
-    "Races/exotic/Goliaths.md",
-    "Races/exotic/Dragonborns.md",
-    "Races/common/Tieflings.md",
-    "Races/common/Dwarves.md",
-    "Races/common/Gnomes.md",
-    "Races/common/Half-elves.md",
-    "Races/common/Humans.md",
-    "Cities/big/Shadowsong.md",
-    "Lore pieces/The Weave.md",
-    "Lore pieces/Historical Events.md",
-    "Cities/small/Fallcrest.md",
-    "Cities/medium/Easthaven.md",
-    "Lore pieces/Religions/The Order of the Iron Fist.md",
-    "Lore pieces/Religions/The Church of the Holy Light.md",
     "images/Pasted image 20230418231426.png",
     "images/Pasted image 20230418225844.png",
     "images/Pasted image 20230418225802.png",
     "NPCs/Main",
     "NPCs",
     "Lore pieces/Religions",
-    "zMain map.png",
     "Cities/small",
     "Cities/medium",
     "Cities/big",
     "Races/exotic",
     "Races/uncommon",
     "Races/common",
-    "images/pheonix_s_perch.png",
+    "images/phoenix_s_perch.png",
     "images/R.png",
-    "images/Pheonix.png",
+    "images/Phoenix.png",
     "images/The black brootherhood.png",
     "images/Iron legion.jpg",
     "images/Silver rose.jpg",
