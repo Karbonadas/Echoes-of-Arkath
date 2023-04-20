@@ -107,14 +107,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/zsecret/nothing here.md",
+                "file": "Cities/big/Phoenix's Perch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e20310576524aca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/other adventure npcs/Npc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae96335bdcd33acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -180,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cities/zsecret/nothing here.md",
+                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cities/zsecret/nothing here.md",
+                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cities/zsecret/nothing here.md"
+                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md"
               }
             }
           }
@@ -241,11 +265,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d98729bfdd0b7db",
+  "active": "20f02baae5fd60c5",
   "lastOpenFiles": [
+    "NPCs/Main/Elrikas.md",
+    "NPCs/Main/Fortuna Fletcher.md",
+    "NPCs/Main/Jarekas.md",
+    "NPCs/Main/Kapitonas Karras.md",
+    "NPCs/Main/Lordas Antanas.md",
+    "NPCs/Main/Markas (Porteris) Elkabinas.md",
+    "NPCs/Main/Refas.md",
+    "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
+    "NPCs/other adventure npcs/Npc.md",
+    "!!Spoilers!!Adventure or oneshot ideas",
+    "Untitled",
+    "images/Pasted image 20230419234417.png",
+    "Cities/big/Phoenix's Perch.md",
+    "Cities/big/Citadel of Iron.md",
+    "Cities/zsecret/nothing here.md",
     "Lore pieces/Conflicts.md",
     "Lore pieces/Religions/Naturatiny.md",
-    "Cities/zsecret/nothing here.md",
     "Cities/small/Fallcrest.md",
     "Cities/zsecret",
     "Cities/small/Blackwood.md",
@@ -253,25 +291,14 @@
     "Cities/medium/Silverdale.md",
     "Cities/medium/Greymoor.md",
     "Cities/medium/Easthaven.md",
-    "Cities/big/Phoenix's Perch.md",
     "2023-04-18.md",
-    "Cities/big/Citadel of Iron.md",
-    "NPCs/Main/Elrikas.md",
     "Subclasses(work in progress)/bard/Tipped Stein Agent.md",
     "Factions/Neutral/The Tipped Stein Guild.md",
-    "NPCs/Main/Fortuna Fletcher.md",
     "Factions/Good/The Order of the Phoenix.md",
-    "NPCs/Main/Markas (Porteris) Elkabinas.md",
-    "NPCs/Main/Lordas Antanas.md",
-    "NPCs/Main/Kapitonas Karras.md",
-    "NPCs/Main/Jarekas.md",
     "Subclasses(work in progress)/wizard/The School of Phoenix.md",
     "Factions/Neutral/The Iron Legion.md",
     "images/Pasted image 20230419184900.png",
     "images/Pasted image 20230419184145.png",
-    "Races/uncommon/Halflings.md",
-    "Races/common/Gnomes.md",
-    "Lore pieces/Historical Events.md",
     "zMain map.png",
     "Subclasses(work in progress)/bard",
     "images/Pasted image 20230418231426.png",
@@ -283,12 +310,9 @@
     "Cities/small",
     "Cities/medium",
     "Cities/big",
-    "Races/exotic",
-    "Races/uncommon",
     "images/phoenix_s_perch.png",
     "images/R.png",
     "images/Phoenix.png",
-    "images/The black brootherhood.png",
     "Untitled.canvas"
   ]
 }
