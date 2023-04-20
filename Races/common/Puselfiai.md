@@ -5,4 +5,4 @@ Half-elves are often caught between two worlds, not fully accepted by either hum
 [[Eastheivenas]]
 [[Blackwoodas]]
 [[Greymūras]]
-[[Shadowsongas]]
+[[Shadowsongas lvl locked]]

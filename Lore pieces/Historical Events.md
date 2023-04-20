@@ -13,3 +13,5 @@ Drakono sugrįžimas: Buvo manoma, kad su Katakalizmu baigėsi ir drakonų, kuri
 
 Didžioji išdavystė: paaiškėjo, kad žymus [[Prekiautojų gildija]] narys daugelį metų slapta dirbo su „Juodąja brolija“, suteikdamas jiems informaciją ir išteklius. Tai sukėlė didelę nesantaiką gildijoje ir labai prarado pasitikėjimą tarp kitų frakcijų.
 
+Upcoming Historical events(During campaign)
+The Void plyšis

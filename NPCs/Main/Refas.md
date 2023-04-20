@@ -2,7 +2,7 @@ Refas yra vyras, jam 39 metai ir jis dirba statybininku, valytoju ir dar daug ku
 
 ---
 
-General [[Geležies citadelė]], [[Fenikso lizdas]], [[Shadowsongas]], [[Eastheivenas]], [[Greymūras]], [[Silverdeilas]], [[Thornkeepas]], [[Blackwoodas]], [[Falkrestas]]
+General [[Geležies citadelė]], [[Fenikso lizdas]], [[Shadowsongas lvl locked]], [[Eastheivenas]], [[Greymūras]], [[Silverdeilas]], [[Thornkeepas]], [[Blackwoodas]], [[Falkrestas]]
 
 ---
 

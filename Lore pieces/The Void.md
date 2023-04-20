@@ -1,0 +1,5 @@
+Tuštuma yra tamsi, chaotiška sfera, egzistuojanti lygiagrečiai su [[The Weave]]. Tai grynos, neapdorotos magijos vieta, neturinti struktūros ir tvarkos, čia įsikūrę eldritch esybės. Teigiama, kad „Tuštumą“ sukūrė tamsiosios magijos vartotojai, kurie siekė peržengti „The Weave“ ribas ir pasiekti neribotą jo galią. Tačiau jų eksperimentai buvo siaubingai nesėkmingi, o jų sukurta plyšys išlaisvino pasaulyje neprijaukintas „The Void“ energijas. 
+
+Dabar „The Void“ įsiskverbia į „The Weave“, sugadindama ir iškreipdama jos magiją. Tamsiosios „The Void“ energijos gali sukelti nenuspėjamų ir pavojingų padarinių, o tie, kurie bando pasinaudoti jos galia, dažnai tampa beprotybės ir korupcijos aukomis. Nepaisant to, yra tokių, kurie siekia panaudoti „The Void“ galią, manydami, kad jos beribės galimybės nusveria riziką.
+
+[[The Church of The Darkbeyond]]

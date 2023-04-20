@@ -1,4 +1,4 @@
-Naktibaldos yra kvalifikuotų vagių grupė, kuri veikia [[Shadowsongas]] mieste, jie žinomi dėl savo patirties įsiskverbimo ir vagystės srityje.
+Naktibaldos yra kvalifikuotų vagių grupė, kuri veikia [[Shadowsongas lvl locked]] mieste, jie žinomi dėl savo patirties įsiskverbimo ir vagystės srityje.
 	
 Archetipas: 
 Naktibaldos yra slaptų ir išradingų vagių grupė, kuri pasikliauja savo protu ir gudrumu, kad įvykdytų sėkmingas vagystes. 
