@@ -1,9 +1,9 @@
 Jarekas yra vyras Half-Orc, jam 31 metai, dirba sargu. Jis yra per mažo svorio ir aukštas, lyginant su pusiau orku, jo aukštis yra 6'3". jo oda yra žalia. Jo plaukai šviesiai blondinai ir surišti į kuodelį. Jis dėvi grandininius marškinius ir skydą, virš kurio jis dėvi Audinio apsiaustą Be to, jį puošia būtybės kaukolė. 
-Jie drebino vietines įmones ir, jei verslas nemoka, praneša nusikaltėliams, kad gali plėšti verslą.
+Jis korupcingai drebina vietines įmones ir, jei verslas nemoka, praneša nusikaltėliams, kad gali plėšti verslą.
 
 ---
 
-General[[Citadel of Iron]]
+General[[Geležies citadelė]]
 
 ---
 

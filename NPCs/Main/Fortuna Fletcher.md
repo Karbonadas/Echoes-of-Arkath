@@ -3,7 +3,7 @@ Jie turi sudaryti sandorį su reikšminga asmenybe iš nusikalstamo pasaulio, be
 
 ---
 
-General[[Citadel of Iron]]
+General[[Geležies citadelė]]
 
 ---
 

@@ -1,1 +1,1 @@
-Monoteistinė religija, kuri garbina šviesos, tvarkos ir tyrumo dievą Puritą. Jos pasekėjai tiki tikėjimo ir teisumo galia kovoti su blogiu ir tamsa. Bažnyčia yra [[Citadel of Iron]] ir stipriai veikia visoje žemėje.
+Monoteistinė religija, kuri garbina šviesos, tvarkos ir tyrumo dievą Puritą. Jos pasekėjai tiki tikėjimo ir teisumo galia kovoti su blogiu ir tamsa. Bažnyčia yra [[Geležies citadelė]] ir stipriai veikia visoje žemėje.

@@ -2,7 +2,7 @@ Refas yra vyras, jam 39 metai ir jis dirba statybininku, valytoju ir dar daug ku
 
 ---
 
-General [[Citadel of Iron]], [[Phoenix's Perch]], [[Shadowsong]], [[Easthaven]], [[Greymoor]], [[Silverdale]], [[Thornkeep]], [[Blackwood]], [[Fallcrest]]
+General [[Geležies citadelė]], [[Fenikso lizdas]], [[Shadowsongas]], [[Eastheivenas]], [[Greymūras]], [[Silverdeilas]], [[Thornkeepas]], [[Blackwoodas]], [[Falkrestas]]
 
 ---
 

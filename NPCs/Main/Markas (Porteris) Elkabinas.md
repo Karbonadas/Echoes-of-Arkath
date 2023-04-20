@@ -4,7 +4,7 @@ Vienas iš nuolatinių lankytojų nustojo lankytis. Jiems reikia padėti juos su
 
 ---
 
-General[[Citadel of Iron]]
+General[[Geležies citadelė]]
 
 ---
 
@@ -16,7 +16,7 @@ Race Dwarf
 
 Age 121 (Adult)
 
-Job Barkeep, leader of [[The Tipped Stein Guild]]
+Job Barkeep, leader of [[Tipštaino gildija]]
 
 Story Hook 
 

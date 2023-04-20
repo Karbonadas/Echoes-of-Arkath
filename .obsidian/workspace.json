@@ -8,137 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "102ab249b5fb2226",
+            "id": "15dc83431201d92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Neutral/The Tipped Stein Guild.md",
+                "file": "Monsters/CR 1 Ghoul Brute.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1033e84d17c29f1a",
+            "id": "be4da9f9391e098c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Good/The Order of the Phoenix.md",
+                "file": "Monsters/CR 7 Void Stalkers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58045eb4dbc44b7a",
+            "id": "a9fcead460485c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Good/The Order of the Phoenix.md",
+                "file": "Monsters/CR 8 Dark Aberration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e54ece6078bc5dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zMain map.png"
-              }
-            }
-          },
-          {
-            "id": "e0eab7e70cf5f91a",
+            "id": "1eef29f8f2772f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/big/Citadel of Iron.md",
+                "file": "Monsters/CR 9 Dark Knight.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d1b91abea603bb86",
+            "id": "a83230b0e0a9e418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/big/Citadel of Iron.md",
+                "file": "Monsters/CR 4 Death Reaver.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e8d54310701f371",
+            "id": "ed25fa67d0e5484c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Main/Markas (Porteris) Elkabinas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c91b3d6d4232c9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cities/small/Fallcrest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d98729bfdd0b7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cities/big/Phoenix's Perch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20310576524aca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/other adventure npcs/Npc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae96335bdcd33acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
+                "file": "Monsters/CR 0.25 Soul Devourers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
+                "file": "Monsters/CR 0.25 Soul Devourers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
+                "file": "Monsters/CR 0.25 Soul Devourers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md"
+                "file": "Monsters/CR 0.25 Soul Devourers.md"
               }
             }
           }
@@ -265,41 +207,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20f02baae5fd60c5",
+  "active": "ed25fa67d0e5484c",
   "lastOpenFiles": [
-    "NPCs/Main/Elrikas.md",
-    "NPCs/Main/Fortuna Fletcher.md",
-    "NPCs/Main/Jarekas.md",
-    "NPCs/Main/Kapitonas Karras.md",
-    "NPCs/Main/Lordas Antanas.md",
-    "NPCs/Main/Markas (Porteris) Elkabinas.md",
-    "NPCs/Main/Refas.md",
-    "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas.md",
-    "NPCs/other adventure npcs/Npc.md",
+    "Monsters/CR 1 Dire Soul Devourer.md",
+    "Monsters/CR 1 Ghoul Brute.md",
+    "Monsters/CR 1 Shadow Pouncer.md",
+    "Monsters/CR 2 Weaverings.md",
+    "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas lvl4x5.md",
+    "Monsters/CR 9 Dark Knight.md",
+    "Monsters/CR 8 Void Behemoth.md",
+    "Monsters/CR 8 Titan of The Lord.md",
+    "Monsters/CR 8 Shadow Reaver.md",
+    "Monsters/CR 8 Dark Aberration.md",
+    "Monsters/CR 7 Void Stalkers.md",
+    "Monsters/CR 6 Soul harvester.md",
+    "Monsters/CR 6 Nightshade Serpent.md",
+    "Monsters/CR 6 Corupted treants.md",
+    "Monsters/CR 5 Void wrath.md",
+    "Monsters/CR 4 Death Reaver.md",
+    "Monsters/CR 3 Shadowbeast.md",
+    "Monsters/CR 3 Darkspawn.md",
+    "Monsters/CR 1 The Flicker.md",
+    "Monsters/CR 0.25 Soul Devourers.md",
+    "Monsters/CR 0.5 Gal'karg.md",
+    "Lore pieces/Historical Events.md",
+    "zMain map.png",
+    "Lore pieces/Religions/The Order of the Eternal Weave.md",
+    "Subclasses(work in progress)/warlock/Voidcaller.md",
+    "Lore pieces/The Void.md",
+    "Lore pieces/Religions/The Church of The Darkbeyond.md",
+    "Monsters",
+    "images/Pasted image 20230420164315.png",
     "!!Spoilers!!Adventure or oneshot ideas",
-    "Untitled",
     "images/Pasted image 20230419234417.png",
-    "Cities/big/Phoenix's Perch.md",
-    "Cities/big/Citadel of Iron.md",
-    "Cities/zsecret/nothing here.md",
-    "Lore pieces/Conflicts.md",
-    "Lore pieces/Religions/Naturatiny.md",
-    "Cities/small/Fallcrest.md",
     "Cities/zsecret",
-    "Cities/small/Blackwood.md",
-    "Cities/medium/Thornkeep.md",
-    "Cities/medium/Silverdale.md",
-    "Cities/medium/Greymoor.md",
-    "Cities/medium/Easthaven.md",
-    "2023-04-18.md",
-    "Subclasses(work in progress)/bard/Tipped Stein Agent.md",
-    "Factions/Neutral/The Tipped Stein Guild.md",
-    "Factions/Good/The Order of the Phoenix.md",
-    "Subclasses(work in progress)/wizard/The School of Phoenix.md",
-    "Factions/Neutral/The Iron Legion.md",
     "images/Pasted image 20230419184900.png",
     "images/Pasted image 20230419184145.png",
-    "zMain map.png",
     "Subclasses(work in progress)/bard",
     "images/Pasted image 20230418231426.png",
     "images/Pasted image 20230418225844.png",
@@ -312,7 +255,6 @@
     "Cities/big",
     "images/phoenix_s_perch.png",
     "images/R.png",
-    "images/Phoenix.png",
     "Untitled.canvas"
   ]
 }

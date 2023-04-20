@@ -8,4 +8,4 @@ Level 10: Phoenix's Insight At 10th level, you gain the ability to read the inte
 
 Level 14: Phoenix's Flame Mastery At 14th level, you gain mastery over fire magic. You can choose to cast any wizard spell that deals fire damage as if it were one level higher than it actually is. In addition, whenever you cast a wizard spell that deals fire damage, you can choose to spend a spell slot of 3rd level or higher to maximize the damage dealt by the spell. If you do, the spell also ignites any flammable objects in its area of effect. Once you use this ability, you can't use it again until you finish a long rest.
 
-[[The Order of the Phoenix]]
+[[Fenikso Ordinas]]

@@ -1,5 +1,5 @@
 
-[[The Knights of the Silver Rose]] are a legendary order of warriors who combine their raw physical strength with unbreakable mental fortitude. They are known for their unrelenting courage, unwavering loyalty, and unyielding determination. As a Knight of the Silver Rose, you are a champion of honor and justice, ready to defend the innocent and vanquish evil wherever it may be found.
+[[Sidabrinės Rožės Riteriai]] are a legendary order of warriors who combine their raw physical strength with unbreakable mental fortitude. They are known for their unrelenting courage, unwavering loyalty, and unyielding determination. As a Knight of the Silver Rose, you are a champion of honor and justice, ready to defend the innocent and vanquish evil wherever it may be found.
 
 #### Tenets of the Silver Rose
 

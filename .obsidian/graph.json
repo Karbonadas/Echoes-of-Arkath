@@ -11,7 +11,7 @@
       "query": "path:Cities",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7614255
       }
     },
     {
@@ -47,6 +47,13 @@
       "color": {
         "a": 1,
         "rgb": 11424480
+      }
+    },
+    {
+      "query": "path:Monsters",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],

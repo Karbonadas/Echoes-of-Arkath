@@ -1,4 +1,4 @@
-A heavily-armored warrior trained in the military tactics of [[the Iron Legion]], specializing in defensive maneuvers and siege weaponry.
+A heavily-armored warrior trained in the military tactics of [[Geležies legionas]], specializing in defensive maneuvers and siege weaponry.
 
 -   Heavy Armor Proficiency: At 3rd level, Ironclad gains proficiency with heavy armor, allowing them to wear the strongest armor and shields available.
     

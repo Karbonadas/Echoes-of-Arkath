@@ -4,7 +4,7 @@ Jų brolis ir sesuo yra kareivis, bet negrįžo su savo būriu, jiems reikia, ka
 
 ---
 
-General[[Citadel of Iron]]
+General[[Geležies citadelė]]
 
 ---
 

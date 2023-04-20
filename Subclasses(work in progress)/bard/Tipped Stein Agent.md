@@ -1,4 +1,4 @@
-[[The Tipped Stein Guild]] is a powerful organization of bartenders with vast networks of contacts throughout the land. The Tipped Stein Agents are a select few members who have been trained in the art of infiltration and espionage. They use their charm and wit to gather information and perform covert operations on behalf of the guild.
+[[Tipštaino gildija]] is a powerful organization of bartenders with vast networks of contacts throughout the land. The Tipped Stein Agents are a select few members who have been trained in the art of infiltration and espionage. They use their charm and wit to gather information and perform covert operations on behalf of the guild.
 
 Level 3:
 

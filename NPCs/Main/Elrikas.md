@@ -1,9 +1,9 @@
-Elrikas yra Aasimaras vyras, jam 144 metai, jis dirba filosofu, bei [[The Order of the Phoenix]] vadovu. Jis turi labai antsvorio ir ūgio, lyginant su Aasimaru, jo ūgis yra 6'6". jo oda yra blyški. Jo plaukai raudoni ir surišti į uodegą. Jis dėvi šviesiai geltonus keliautojų chalatus, virš kurių dėvi „Pelt“ striukė.. Be to, jį puošia Odinės pirštinės. 
+Elrikas yra Aasimaras vyras, jam 144 metai, jis dirba filosofu, bei [[Fenikso Ordinas]] vadovu. Jis turi labai antsvorio ir ūgio, lyginant su Aasimaru, jo ūgis yra 6'6". jo oda yra blyški. Jo plaukai raudoni ir surišti į uodegą. Jis dėvi šviesiai geltonus keliautojų chalatus, virš kurių dėvi „Pelt“ striukė.. Be to, jį puošia Odinės pirštinės. 
 Jį vargino miestelio valdančiosios klasės etika ir jiems reikia pagalbos skleidžiant propagandą prieš juos.
 
 ---
 
-General[[Phoenix's Perch]]
+General[[Fenikso lizdas]]
 
 ---
 

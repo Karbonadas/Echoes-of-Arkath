@@ -5,7 +5,7 @@ Jis sukūrė prastos kokybės meno kūrinius, bet mano, kad tai šedevras, ir no
 
 ---
 
-General[[Citadel of Iron]]
+General[[Geležies citadelė]]
 
 ---
 

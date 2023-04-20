@@ -1,4 +1,4 @@
-Coming from [[Easthaven]] forest archers are masters of ranged combat specializing in tracking, traping and hunting dangerous beasts to protect their homeland and gather food.
+Coming from [[Eastheivenas]] forest archers are masters of ranged combat specializing in tracking, traping and hunting dangerous beasts to protect their homeland and gather food.
 Level 3:
 	
 -   Natural Explorer: You gain expertise in Survival skill and you ignore difficult terrain while traveling in the forest. Additionally, you have advantage on initiative rolls while in forest terrain.
