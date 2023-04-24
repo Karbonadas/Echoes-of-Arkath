@@ -1,5 +1,7 @@
 These creatures are born from [[the void]] and have a skeletal form covered in a dark, tattered cloak. They move silently and swiftly, stalking their prey before attacking with their sharp, bony claws.
 
+![[Pasted image 20230424162542.png]]
+
 _Medium undead, neutral evil_
 
 **Armor Class:** 16 (natural armor)

@@ -1,5 +1,7 @@
 These twisted creatures are the result of experiments carried out by [[The Cult of the Dark One]]. They were once human, but have been transformed into grotesque monsters with dark, mottled skin and razor-sharp claws. They are fiercely loyal to their creators and will stop at nothing to carry out their bidding.
 
+![[Pasted image 20230424155809.png]]
+
 _Medium aberration, neutral evil_
 
 **Armor Class** 15 (natural armor)

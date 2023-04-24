@@ -1,5 +1,7 @@
 These ghostly creatures are born when a person dies with unresolved issues or emotions. They take on a spectral form and begin to roam the land, seeking out those who they believe can help them resolve their issues. However, their methods can be violent and deadly, as they will do whatever it takes to get what they want.
 
+![[Pasted image 20230424161440.png]]
+
 _Medium undead, chaotic evil_
 
 **Armor Class** 14

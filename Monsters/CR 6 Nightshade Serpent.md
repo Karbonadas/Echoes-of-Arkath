@@ -1,8 +1,12 @@
 The Nightshade Serpent is a dark and sinister creature that slithers through the shadows, striking with deadly precision. It has a long, sleek body covered in midnight-black scales, with glowing red eyes and razor-sharp fangs. The Nightshade Serpent is an intelligent creature and is often used by powerful sorcerers and dark cults as a deadly assassin.
 
+![[Pasted image 20230424161210.png]]
+
 Stat Block:
 
 Nightshade Serpent (CR 6)
+
+Large
 
 AC: 16 HP: 90 (12d10 + 24) Speed: 40 ft., climb 40 ft., swim 40 ft.
 

@@ -1,5 +1,7 @@
 These once peaceful tree-creatures have been corrupted by dark magic. Their bark is black and their leaves are wilted and brown. They lash out at any living creatures that come too close, using their sharp branches to attack.
 
+![[Pasted image 20230424161010.png]]
+
 Medium plant, neutral evil
 
 **Armor Class:** 16 (natural armor)

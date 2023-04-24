@@ -1,5 +1,7 @@
 These towering figures are the stuff of nightmares. Standing at over 10 feet tall, they are shrouded in an inky blackness that seems to absorb all light. They wield massive, jagged swords that are imbued with dark magic, and can summon shadowy tendrils to ensnare their foes.
 
+![[Pasted image 20230424162912.png]]
+
 AC: 18 HP: 142 (15d10 + 45) Speed: 40 ft.
 
 STR: 20 (+5) DEX: 16 (+3) CON: 16 (+3) INT: 10 (+0) WIS: 12 (+1) CHA: 14 (+2)

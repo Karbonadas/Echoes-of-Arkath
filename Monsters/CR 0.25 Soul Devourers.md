@@ -1,5 +1,7 @@
 These otherworldly creatures are summoned by [[The Church of The Darkbeyond]] to do their bidding. They have a ghastly, spectral appearance and feed on the life force of living beings, leaving them as lifeless husks. They can also corrupt the souls of their victims, turning them into twisted, undead creatures under their control.
 
+![[Pasted image 20230424145035.png]]
+
 _Small undead, chaotic evil_
 
 **Armor Class** 12

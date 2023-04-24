@@ -1,5 +1,7 @@
 These once noble knights have been corrupted by the teachings of [[The Church of The Darkbeyond]]. They wear black armor and wield wicked-looking swords imbued with dark magic. They use their powers to manipulate shadows and darkness, disappearing from sight and attacking from unexpected angles.
 
+![[Pasted image 20230424164820.png]]
+
 _Medium undead, lawful evil_
 
 **Armor Class:** 18 (plate mail, shield)

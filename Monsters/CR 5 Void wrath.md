@@ -1,5 +1,7 @@
 These ghostly beings are created when a [[Voidcaller]]'s spell goes awry, infusing an unfortunate victim with the essence of the Void. They have a humanoid form, but their flesh is black and their eyes glow with a sickly green light. They can phase in and out of the physical plane, making them difficult to hit with weapons.
 
+![[Pasted image 20230424160555.png]]
+
 Size: Medium
 
 Type: Undead

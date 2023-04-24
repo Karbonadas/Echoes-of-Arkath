@@ -1,5 +1,7 @@
 These massive creatures are born from [[the Void]] and have a body made of pure darkness. They have razor-sharp teeth and claws, and can create shockwaves with their movements that can knock down their prey. They are immune to radiant damage and are extremely difficult to kill. They are neutral evil and will attack anything that gets in their way.
 
+![[Pasted image 20230424164641.png]]
+
 AC: 22 
 HP: 200
 

@@ -1,5 +1,7 @@
 These small, ferocious creatures are said to be descendants of the [[Nykštukai]] ancestors, but have been corrupted by dark magic. They have rough, scaly skin and sharp, jagged teeth. Gal'kargs are known for their incredible strength and ability to dig through even the toughest of earth and stone. They are often used as guards or miners, but their violent nature and susceptibility to dark magic make them unpredictable allies.
 
+
+![[Pasted image 20230424144457.png]]
 _Small humanoid (dwarf), chaotic evil_
 
 **Armor Class:** 13

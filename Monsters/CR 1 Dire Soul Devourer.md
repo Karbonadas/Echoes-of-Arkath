@@ -1,5 +1,7 @@
 The Dire Soul Devourer is a stronger version of the [[Soul Devourer]], with increased stats and a higher CR of 1. It still has the ability to enter the Ethereal Plane with Etherealness and pack tactics, but it also has a higher damage output with its life drain attack.
 
+![[Pasted image 20230424145213.png]]
+
 _Medium undead, chaotic evil_
 
 **Armor Class** 14

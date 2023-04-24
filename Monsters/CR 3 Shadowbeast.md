@@ -1,6 +1,8 @@
 
 The shadowbeast is created by a being who has delved too deeply into the mysteries of [[the Void]] and [[the Weave]], attempting to manipulate them for their own purposes. The process involves corrupting a normal animal with dark magic, causing it to mutate and become a shadowbeast. Shadowbeasts are often used as guardians or assassins by those who created them.
 
+![[Pasted image 20230424160022.png]]
+
 _Medium abnormal beast, chaotic evil_
 
 **Armor Class** 15

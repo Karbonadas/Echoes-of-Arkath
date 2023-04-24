@@ -71,11 +71,9 @@
             "id": "ed25fa67d0e5484c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2023-04-20.md",
-                "mode": "source",
-                "source": false
+                "file": "zMain map.png"
               }
             }
           }
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-04-20.md",
+                "file": "zMain map.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-04-20.md",
+                "file": "zMain map.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-04-20.md"
+                "file": "zMain map.png"
               }
             }
           }
@@ -209,52 +207,52 @@
   },
   "active": "ed25fa67d0e5484c",
   "lastOpenFiles": [
-    "Lore pieces/The Void.md",
-    "Cities/big/Shadowsongas lvl locked.md",
-    "Lore pieces/Historical Events.md",
+    "Subclasses(work in progress)/barbarian/Path of the Silver Knight.md",
+    "Factions/Good/Sidabrinės Rožės Riteriai.md",
+    "2023-04-20.md",
     "Monsters/CR 9 Dark Knight.md",
-    "Monsters/CR 0.5 Gal'karg.md",
-    "Lore pieces/Religions/The Church of The Darkbeyond.md",
-    "Lore pieces/The Weave.md",
-    "Subclasses(work in progress)/warlock/Voidcaller.md",
-    "Monsters/CR 0.25 Soul Devourers.md",
-    "Monsters/CR 1 Dire Soul Devourer.md",
-    "Monsters/CR 1 Ghoul Brute.md",
-    "Monsters/CR 1 Shadow Pouncer.md",
-    "Monsters/CR 2 Weaverings.md",
-    "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas lvl4x5.md",
+    "images/Pasted image 20230424164820.png",
     "Monsters/CR 8 Void Behemoth.md",
+    "images/Pasted image 20230424164641.png",
     "Monsters/CR 8 Titan of The Lord.md",
+    "images/Pasted image 20230424164352.png",
     "Monsters/CR 8 Shadow Reaver.md",
+    "images/Pasted image 20230424162912.png",
     "Monsters/CR 8 Dark Aberration.md",
+    "images/Pasted image 20230424162726.png",
     "Monsters/CR 7 Void Stalkers.md",
+    "images/Pasted image 20230424162542.png",
     "Monsters/CR 6 Soul harvester.md",
+    "images/Pasted image 20230424161440.png",
     "Monsters/CR 6 Nightshade Serpent.md",
+    "images/Pasted image 20230424161210.png",
     "Monsters/CR 6 Corupted treants.md",
+    "images/Pasted image 20230424161010.png",
     "Monsters/CR 5 Void wrath.md",
+    "images/Pasted image 20230424160555.png",
     "Monsters/CR 4 Death Reaver.md",
     "Monsters/CR 3 Shadowbeast.md",
     "Monsters/CR 3 Darkspawn.md",
-    "zMain map.png",
+    "Monsters/CR 1 The Flicker.md",
+    "Monsters/CR 1 Shadow Pouncer.md",
+    "Monsters/CR 1 Dire Soul Devourer.md",
+    "Monsters/CR 0.25 Soul Devourers.md",
+    "Monsters/CR 0.5 Gal'karg.md",
+    "Monsters/CR 1 Ghoul Brute.md",
+    "Monsters/CR 2 Weaverings.md",
+    "Lore pieces/The Void.md",
+    "Cities/big/Shadowsongas lvl locked.md",
+    "Lore pieces/Historical Events.md",
     "Monsters",
-    "images/Pasted image 20230420164315.png",
     "!!Spoilers!!Adventure or oneshot ideas",
-    "images/Pasted image 20230419234417.png",
     "Cities/zsecret",
-    "images/Pasted image 20230419184900.png",
-    "images/Pasted image 20230419184145.png",
     "Subclasses(work in progress)/bard",
-    "images/Pasted image 20230418231426.png",
-    "images/Pasted image 20230418225844.png",
-    "images/Pasted image 20230418225802.png",
     "NPCs/Main",
     "NPCs",
     "Lore pieces/Religions",
     "Cities/small",
     "Cities/medium",
     "Cities/big",
-    "images/phoenix_s_perch.png",
-    "images/R.png",
     "Untitled.canvas"
   ]
 }

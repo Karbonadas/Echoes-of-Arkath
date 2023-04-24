@@ -1,5 +1,7 @@
 These twisted creatures are the result of experimentation with dark magic. They have a hulking, insectoid form with multiple appendages and sharp claws. They can shoot beams of dark energy from their eyes, and have the ability to manipulate shadows and darkness to their advantage. They are chaotic evil and will attack anything that crosses their path.
 
+![[Pasted image 20230424162726.png]]
+
 AC: 18 
 HP: 135 
 

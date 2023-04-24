@@ -1,5 +1,7 @@
 These spider-like creatures are the result of magic experiments carried out by [[The Order of the Eternal Weave]] gone wrong. They have sharp claws and can spin webs imbued with dark energy that can ensnare their prey.
 
+![[Pasted image 20230424150041.png]]
+
 _Medium aberration, chaotic evil_
 
 **Armor Class** 13 (natural armor)

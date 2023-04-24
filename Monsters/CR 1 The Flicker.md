@@ -1,5 +1,7 @@
 These small, chaotic neutral creatures are often mistaken for fireflies. However, they are actually tiny creatures that are capable of moving incredibly quickly and creating bursts of light that can disorient their prey. They are not always hostile, but can become aggressive if they feel threatened.
 
+![[Pasted image 20230424145846.png]]
+
 AC: 14 HP: 22 (5d8) Speed: 40 ft., fly 60 ft.
 
 STR: 6 (-2) DEX: 18 (+4) CON: 10 (+0) INT: 6 (-2) WIS: 12 (+1) CHA: 10 (+0)

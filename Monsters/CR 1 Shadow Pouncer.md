@@ -1,5 +1,7 @@
 These small, cat-like creatures are born from the shadows themselves. They have black fur that blends seamlessly with the darkness, allowing them to move unseen. They pounce on their prey from unexpected angles and can quickly disappear back into the shadows. They are chaotic neutral and not always hostile, sometimes choosing to play with their prey before disappearing again.
 
+![[Pasted image 20230424145606.png]]
+
 
 Small shadow beast, chaotic neutral_
 

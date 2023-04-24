@@ -1,5 +1,7 @@
 This massive humanoid creature is the result of a dark ritual that imbued a mortal with a small grain of a powerful demon lord(The dark one([[Tamsiojo kultas]])). It wields a massive black sword that can cleave through anything in its path. It is immune to non-magical attacks and has a powerful aura of fear that can paralyze its enemies.
 
+![[Pasted image 20230424164352.png]]
+
 Large fiend, chaotic evil
 
 Armor Class: 18 (natural armor) Hit Points: 180 (19d10 + 76) Speed: 40 ft.

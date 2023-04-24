@@ -1,5 +1,7 @@
 These undead monsters were once powerful warriors who were brought back from the dead through dark magic. They have a hulking, muscular form and are driven only by their desire to feed on the flesh of the living. They are chaotic evil and will attack any living creature they come across.
 
+![[Pasted image 20230424145427.png]]
+
 Medium undead, chaotic evil
 
 **Armor Class:** 12 **Hit Points:** 38 (7d8 + 7) **Speed:** 30 ft.
