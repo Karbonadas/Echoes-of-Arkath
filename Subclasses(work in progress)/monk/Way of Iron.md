@@ -1,3 +1,5 @@
+![[Pasted image 20230430022844.png]]
+
 The Way of Iron is a monastic tradition that emphasizes discipline and physical training above all else. Followers of this tradition believe that through rigorous training of both the body and the mind, they can become virtually indestructible in combat. They view themselves as the guardians of justice, and they seek to uphold their ideals through force of will and strength of arms.
 
 Features:

@@ -1,4 +1,7 @@
-A practitioner of dark magic who makes pacts with eldritch entities from beyond the veil, specializing in void magic and mind control[[The Church of The Darkbeyond]]
+![[Pasted image 20230430024347.png]]
+
+A practitioner of dark magic who makes pacts with eldritch entities from beyond the veil, specializing in void magic and mind control
+[[The Church of The Darkbeyond]]
 
 
 Level 1:

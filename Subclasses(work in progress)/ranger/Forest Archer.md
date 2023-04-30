@@ -1,3 +1,5 @@
+![[Pasted image 20230430023538.png]]
+
 Coming from [[Eastheivenas]] forest archers are masters of ranged combat specializing in tracking, traping and hunting dangerous beasts to protect their homeland and gather food.
 Level 3:
 	

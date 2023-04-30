@@ -1,3 +1,5 @@
+![[Pasted image 20230430024927.png]]
+
 The School of Phoenix is a wizard subclass that emphasizes the pursuit of knowledge and the responsible use of magic for the betterment of society. Members of this school are highly educated and committed to the study of magic, with a particular focus on the mysteries of fire magic.
 
 Level 2: Phoenix's Flame When you choose this subclass at 2nd level, you gain the ability to imbue your spells with the fiery power of the phoenix. Whenever you cast a spell that deals fire damage, you can choose to spend a spell slot of 1st level or higher to add an extra 1d6 fire damage to the spell's damage. This extra damage increases to 2d6 at 6th level, 3d6 at 10th level, and 4d6 at 14th level.

@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "276dfd8abf78a0ce",
+        "id": "ff8418498f92632d",
         "type": "tabs",
         "children": [
           {
-            "id": "15dc83431201d92e",
+            "id": "2bd7d292242096af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/CR 1 Ghoul Brute.md",
+                "file": "Cities/zsecret/nothing here.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "be4da9f9391e098c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/CR 7 Void Stalkers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9fcead460485c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/CR 8 Dark Aberration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eef29f8f2772f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/CR 9 Dark Knight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a83230b0e0a9e418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/CR 4 Death Reaver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed25fa67d0e5484c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zMain map.png"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zMain map.png",
+                "file": "Cities/zsecret/nothing here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zMain map.png",
+                "file": "Cities/zsecret/nothing here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zMain map.png"
+                "file": "Cities/zsecret/nothing here.md"
               }
             }
           }
@@ -205,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed25fa67d0e5484c",
+  "active": "2bd7d292242096af",
   "lastOpenFiles": [
-    "Subclasses(work in progress)/barbarian/Path of the Silver Knight.md",
-    "Factions/Good/Sidabrinės Rožės Riteriai.md",
+    "Cities/small/Falkrestas.md",
+    "Cities/small/Blackwoodas.md",
+    "Cities/medium/Thornkeepas.md",
+    "Cities/medium/Silverdeilas.md",
+    "Cities/medium/Greymūras.md",
+    "Cities/medium/Eastheivenas.md",
+    "Cities/zsecret/nothing here.md",
+    "images/Pasted image 20230430022431.png",
+    "Subclasses(work in progress)/ranger/Forest Archer.md",
+    "Races/uncommon/Elfai.md",
+    "Races/uncommon/Hobitai arba pusgalviai.md",
+    "Races/uncommon/Nephilimai.md",
+    "Races/uncommon/Pusorkiai.md",
+    "Subclasses(work in progress)/bard/Tipped Stein Agent.md",
+    "Races/common/Žmonės.md",
+    "Races/common/Puselfiai.md",
+    "Races/common/Nykštukai.md",
+    "Races/common/Nevidonai.md",
+    "Races/common/Gnomai.md",
+    "Subclasses(work in progress)/wizard/The School of Phoenix.md",
+    "images/Pasted image 20230430024927.png",
     "2023-04-20.md",
-    "Monsters/CR 9 Dark Knight.md",
-    "images/Pasted image 20230424164820.png",
-    "Monsters/CR 8 Void Behemoth.md",
-    "images/Pasted image 20230424164641.png",
-    "Monsters/CR 8 Titan of The Lord.md",
-    "images/Pasted image 20230424164352.png",
-    "Monsters/CR 8 Shadow Reaver.md",
-    "images/Pasted image 20230424162912.png",
-    "Monsters/CR 8 Dark Aberration.md",
-    "images/Pasted image 20230424162726.png",
-    "Monsters/CR 7 Void Stalkers.md",
-    "images/Pasted image 20230424162542.png",
-    "Monsters/CR 6 Soul harvester.md",
-    "images/Pasted image 20230424161440.png",
-    "Monsters/CR 6 Nightshade Serpent.md",
-    "images/Pasted image 20230424161210.png",
-    "Monsters/CR 6 Corupted treants.md",
-    "images/Pasted image 20230424161010.png",
-    "Monsters/CR 5 Void wrath.md",
-    "images/Pasted image 20230424160555.png",
-    "Monsters/CR 4 Death Reaver.md",
-    "Monsters/CR 3 Shadowbeast.md",
-    "Monsters/CR 3 Darkspawn.md",
-    "Monsters/CR 1 The Flicker.md",
-    "Monsters/CR 1 Shadow Pouncer.md",
-    "Monsters/CR 1 Dire Soul Devourer.md",
-    "Monsters/CR 0.25 Soul Devourers.md",
-    "Monsters/CR 0.5 Gal'karg.md",
-    "Monsters/CR 1 Ghoul Brute.md",
-    "Monsters/CR 2 Weaverings.md",
-    "Lore pieces/The Void.md",
-    "Cities/big/Shadowsongas lvl locked.md",
-    "Lore pieces/Historical Events.md",
+    "Subclasses(work in progress)/sorcerer/Weaveborn Sorcerer.md",
+    "images/Pasted image 20230430024637.png",
+    "Subclasses(work in progress)/warlock/Voidcaller.md",
+    "images/Pasted image 20230430024347.png",
+    "images/Pasted image 20230430024041.png",
+    "Subclasses(work in progress)/rogue/Shadowblade.md",
+    "images/Pasted image 20230430023755.png",
+    "images/Pasted image 20230430023538.png",
+    "Subclasses(work in progress)/paladin/Phoenix Knight.md",
+    "images/Pasted image 20230430023236.png",
+    "Subclasses(work in progress)/monk/Way of Iron.md",
+    "images/Pasted image 20230430022844.png",
+    "Lore pieces/Religions/The Order of the Iron Fist.md",
+    "images/Pasted image 20230430021104.png",
     "Monsters",
     "!!Spoilers!!Adventure or oneshot ideas",
     "Cities/zsecret",

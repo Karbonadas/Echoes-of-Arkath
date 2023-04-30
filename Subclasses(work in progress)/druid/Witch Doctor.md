@@ -1,9 +1,12 @@
+![[Pasted image 20230430021104.png]]
+
+
 A shamanistic spellcaster attuned to the [[Naturatiny]] magic of the land, specializing in herbalism, animal magic, and curses.
 
 Level 1 Features:
 
 -   Herbalism: The Witch Doctor has proficiency in herbalism kit and can create various potions and salves using natural ingredients.
--   Animal Magic: The Witch Doctor has a deeper connection to the animals of the land, granting them the ability to cast the Speak with Animals spell at will.
+-   Animal Magic: The Witch Doctor has a deeper connection to the animals of the land, granting them the ability to cast the Speak with Animals spell at will.(animals won't always anwert coherently)
 -   Curses:As an action the Witch Doctor has the ability to place curses on their enemies, causing them to suffer from various afflictions.
 	
 Level 6 Features:

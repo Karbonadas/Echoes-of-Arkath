@@ -1,3 +1,5 @@
+![[Pasted image 20230430023236.png]]
+
 A holy warrior devoted to the [[Fenikso Ordinas]], specializing in fire-based attacks and resurrection magic.
 
 _Flame of the Phoenix:_ Starting at 1st level, you gain resistance to fire damage, and you can use your action to ignite a weapon you are holding, causing it to deal an additional 1d6 fire damage on a hit. This effect lasts for 1 minute or until you dismiss it as a bonus action.

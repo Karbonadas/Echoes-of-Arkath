@@ -1,3 +1,5 @@
+![[Pasted image 20230430024637.png]]
+
 [[The Order of the Eternal Weave]]
 The Weaveborn Sorcerers are individuals who have been touched by the raw magic that permeates the world, allowing them to tap into the magic of the Weave, the fabric of magic that holds the universe together. They are born with a natural affinity for magic, and their powers grow stronger as they learn to harness and control the magical energies around them.
 
@@ -47,7 +49,7 @@ When you choose this subclass at 1st level, you gain the ability to tap into the
 20.  Empowered Magic: Your magic is infused with extra energy, allowing you to roll an additional damage die for your next damaging spell.
 	
 
-**6th-Level Feature: Wild Magic Affinity**  
+**6th-Level Feature: Wild Magic Affinity** 
 Starting at 6th level, your connection to the Weave becomes even stronger, allowing you to more easily manipulate and control the chaotic energies of magic. You gain the following benefits:
 
 -   When you roll on the Weaveborn Surge table, you can choose to roll twice and choose which result you want to use.

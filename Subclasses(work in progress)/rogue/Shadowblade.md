@@ -1,3 +1,5 @@
+![[Pasted image 20230430023755.png]]
+
 An assassin trained in the shadowy techniques of [[Juodoji brolija]], specializing in stealth, poisons, and misdirection
 
 1.  Bonus Proficiencies: At level 3, you gain proficiency in the Poisoner's Kit and the Stealth skill.

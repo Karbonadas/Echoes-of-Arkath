@@ -1,3 +1,5 @@
+![[Pasted image 20230424232751.png]]
+
 
 [[Sidabrinės Rožės Riteriai]] is a legendary order of warriors who combine their raw physical strength with unbreakable mental fortitude. They are known for their unrelenting courage, unwavering loyalty, and unyielding determination. As a Knight of the Silver Rose, you are a champion of honor and justice, ready to defend the innocent and vanquish evil wherever it may be found.
 

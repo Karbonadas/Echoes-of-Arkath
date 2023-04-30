@@ -1,3 +1,6 @@
+![[Pasted image 20230430020840.png]]
+
+
 [[The Order of the Eternal Weave]]
 A cleric who specializes in weaving together the threads of fate and destiny, and manipulating the fabric of reality to serve their divine purpose.
 
