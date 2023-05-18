@@ -1,10 +1,10 @@
 (Viktorija approved)Malkaras, galingas warlock, apsigyveno apleistoje tvirtovėje už [[Falkrestas]]. Vietiniai jo bijo ir keikia, manydami, kad jis yra atsakingas už daugybę dingimų ir paslaptingų įvykių regione. Grupei nuotykių ieškotojų pavesta ištirti Malkarko tvirtovę ir atskleisti tiesą už prakeikimo.
 
 **Setup:** 
-Grupė nuotykių ieškotojų atvyksta į Folkrestą ir išgirsta gandus apie Malkaro prakeiksmą. Į jų kreipiasi kaimo gyventojas, praradęs dukterį dėl prakeiksmo, ir prašo ištirti šį reikalą. Jis pateikia jiems Marlocko tvirtovės žemėlapį ir įspėja apie tykančius pavojus.
+Grupė nuotykių ieškotojų atvyksta į Folkrestą ir išgirsta gandus apie Malkaro prakeiksmą. Į jų kreipiasi kaimo gyventojas, praradęs dukterį dėl prakeiksmo, ir prašo ištirti šį reikalą. Jis pateikia jiems žemėlapį iki Marloko tvirtovės ir įspėja apie tykančius pavojus.
 
 **Act1:**
-Grupė atvyksta į Malkaro tvirtovę – griūvančią konstrukciją su apaugusią vijokliais ir samanomis apaugusiomis sienomis. Jie turi pereiti Malkarko paskirtas spąstus kad pasiektų savo vidinę šventovę. Pakeliui jie susiduria su Corupted Treant. Grupė turi nugalėti goblinus kovoje, kad progresuotų toliau.
+Grupė atvyksta į Malkaro tvirtovę – griūvančią konstrukciją su apaugusią vijokliais ir samanomis apaugusiomis sienomis. Jie turi pereiti Malkarko paskirtas spąstus kad pasiektų savo vidinę šventovę. Pakeliui jie susiduria su Corupted Treant. Grupė turi nugalėti treant kovoje, kad progresuotų toliau.
 
 **Act2:**
 Grupė patenka į Malkaro vidinę šventovę, tamsią ir nujaučiančią kamerą, užpildytą paslaptingais artefaktais ir slaptais ženklais. Jie susitinka su pačiu Malkarku, liekna figūra, apsirengusia juodais chalatais. Malkaras iš pradžių bando išvaryti grupę, bet supratęs, kad jos nėra lengvai atgrasomos, meta iššūkį proto žaidimui. Grupė turi išspręsti galvosūkį, apimantį stebuklingų akmenų išdėstymą, kad įrodytų savo vertę ir įgytų Marlocko pasitikėjimą.

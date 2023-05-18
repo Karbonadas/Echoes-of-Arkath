@@ -1,7 +1,7 @@
 Archetipas: 
 	Teisingi gerieji riteriai, kurie palaiko teisingumą ir saugo nekaltuosius. 
 	Jie laikomi šviečiančiu vilties ir teisumo švyturiu tamsos ir blogio pilname pasaulyje. 
-	Kovoj
+	
 
 Skonis:
 	Jų simbolis  simbolizuoja jų tikslo grynumą ir kilnumą. 

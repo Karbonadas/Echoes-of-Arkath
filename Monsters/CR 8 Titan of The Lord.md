@@ -1,4 +1,4 @@
-This massive humanoid creature is the result of a dark ritual that imbued a mortal with a small grain of a powerful demon lord(The dark one([[Tamsiojo kultas]])). It wields a massive black sword that can cleave through anything in its path. It is immune to non-magical attacks and has a powerful aura of fear that can paralyze its enemies.
+This massive humanoid creature is the result of a dark ritual that imbued a mortal with a small grain of a powerful demon lord(The dark one([[Juodoji brolija  - Šelmiai]])). It wields a massive black sword that can cleave through anything in its path. It is immune to non-magical attacks and has a powerful aura of fear that can paralyze its enemies.
 
 ![[Pasted image 20230424164352.png]]
 

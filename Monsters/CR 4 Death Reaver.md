@@ -1,4 +1,4 @@
-These undead warriors were once soldiers in the Dark Lord's[[Tamsiojo kultas]] army. They wear tattered armor and wield rusty blades, and are nearly impossible to kill without the use of magic. Their attacks can cause fear in their opponents, leaving them open to further attacks. But now they are left to roam the earth without a cause
+These undead warriors were once soldiers in the Dark Lord's[[Juodoji brolija  - Šelmiai]] army. They wear tattered armor and wield rusty blades, and are nearly impossible to kill without the use of magic. Their attacks can cause fear in their opponents, leaving them open to further attacks. But now they are left to roam the earth without a cause
 
 ![[Pasted image 20230424160247.png]]
 

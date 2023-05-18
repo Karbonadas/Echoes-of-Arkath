@@ -2,12 +2,12 @@ Tamsos kulto galios vieta, Shadowsong, yra miestas, apgaubtas amžinos nakties. 
 
 Main npcs:
 
-Tarybos narys Aricas, dabartinis valdantis tarybos narys, [[Tamsiojo kultas]] narys
+Tarybos narys Aricas, dabartinis valdantis tarybos narys, [[Juodoji brolija  - Šelmiai]] narys
 Meistrė Mara, sena, paslaptinga, bet galinga burtininkė
 Lordas Ksanderis, turtingas pirklys[[Prekiautojų gildija]] ir tarybos narys
 
 [[The Cult of the Dark One]]
-[[Tamsiojo kultas]]
+[[Juodoji brolija  - Šelmiai]]
 [[Naktibaldos]]
 
 -   [[Elfai]]

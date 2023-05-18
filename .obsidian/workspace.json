@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/zsecret/nothing here.md",
+                "file": "Cities/small/Falkrestas.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ad2eb433273fb280",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cities/zsecret/nothing here.md",
+                "file": "Cities/small/Falkrestas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cities/zsecret/nothing here.md",
+                "file": "Cities/small/Falkrestas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cities/zsecret/nothing here.md"
+                "file": "Cities/small/Falkrestas.md"
               }
             }
           }
@@ -148,13 +156,23 @@
   },
   "active": "2bd7d292242096af",
   "lastOpenFiles": [
+    "Factions/Bad/Juodoji brolija  - Šelmiai.md",
+    "Factions/Bad/Juodoji brolija.md",
+    "Factions/Bad/Naktibaldos.md",
+    "Lore pieces/Historical Events.md",
     "Cities/small/Falkrestas.md",
+    "Factions/Neutral/Geležies legionas.md",
+    "Lore pieces/Religions/The Order of the Iron Fist.md",
+    "!!Spoilers!!Adventure or oneshot ideas/Malkaro prakeiksmas lvl4x5.md",
+    "Monsters/CR 6 Corupted treants.md",
+    "Factions/Good/Sidabrinės Rožės Riteriai.md",
+    "Subclasses(work in progress)/monk/Way of Iron.md",
+    "Cities/zsecret/nothing here.md",
     "Cities/small/Blackwoodas.md",
     "Cities/medium/Thornkeepas.md",
     "Cities/medium/Silverdeilas.md",
     "Cities/medium/Greymūras.md",
     "Cities/medium/Eastheivenas.md",
-    "Cities/zsecret/nothing here.md",
     "images/Pasted image 20230430022431.png",
     "Subclasses(work in progress)/ranger/Forest Archer.md",
     "Races/uncommon/Elfai.md",
@@ -165,24 +183,14 @@
     "Races/common/Žmonės.md",
     "Races/common/Puselfiai.md",
     "Races/common/Nykštukai.md",
-    "Races/common/Nevidonai.md",
-    "Races/common/Gnomai.md",
-    "Subclasses(work in progress)/wizard/The School of Phoenix.md",
     "images/Pasted image 20230430024927.png",
-    "2023-04-20.md",
-    "Subclasses(work in progress)/sorcerer/Weaveborn Sorcerer.md",
     "images/Pasted image 20230430024637.png",
-    "Subclasses(work in progress)/warlock/Voidcaller.md",
     "images/Pasted image 20230430024347.png",
     "images/Pasted image 20230430024041.png",
-    "Subclasses(work in progress)/rogue/Shadowblade.md",
     "images/Pasted image 20230430023755.png",
     "images/Pasted image 20230430023538.png",
-    "Subclasses(work in progress)/paladin/Phoenix Knight.md",
     "images/Pasted image 20230430023236.png",
-    "Subclasses(work in progress)/monk/Way of Iron.md",
     "images/Pasted image 20230430022844.png",
-    "Lore pieces/Religions/The Order of the Iron Fist.md",
     "images/Pasted image 20230430021104.png",
     "Monsters",
     "!!Spoilers!!Adventure or oneshot ideas",
