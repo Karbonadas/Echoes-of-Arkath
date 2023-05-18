@@ -7,7 +7,7 @@ Meistras Sorenas, įgudęs medžio drožėjas
 Brolis Jonas(Could be a litch), vietos šventovės vadovas
 Corin, populiarios tavernos „The Rusty Knife“ savininkas [[Tipštaino gildija]]
 Senasis Toremas[[The Order of the Iron Fist]] vadas
-Senis Malkoras 500
+Senis Malkoras 500 metų elfas, vienas iš senūjų
 
 
 
